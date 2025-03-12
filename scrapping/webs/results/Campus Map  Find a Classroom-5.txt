@@ -1,0 +1,13 @@
+Campus Map  Find a Classroom
+Find a Classroom
+Main building numbers of the Humanities and Social Sciences Campus
+
+10XXX : 600th Anniversary Hall
+20XXX : Law School
+31XXX : Toegye Hall of Humanities
+32XXX : Dasan Hall of Economics
+33XXX : Business School
+50XXX : Hoam Hall
+61XXX : Suseon Hall
+62XXX : Suseon Hall Annex
+90XXX : International Hall

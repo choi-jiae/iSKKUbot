@@ -1,0 +1,68 @@
+
+
+- Administration office
+
+[
+    {
+        "Certification Type": "Academic Certification",
+        "Office": "Academic Affairs",
+        "Location": "Humanities and Social Sciences Campus : 600th Anniversary Building 1st floor\n\nNatural Sciences Campus : Student Center 1st floor"
+    },
+    {
+        "Certification Type": "Proof of Enrollment",
+        "Office": "Finance Team",
+        "Location": "Humanities and Social Sciences Campus : 600th Anniversary Building 1st floor\n\nNatural Sciences Campus : Engineering Building 1/ 1st floor"
+    }
+]
+
+- Certificate available
+
+[
+    {
+        "Undergraduate": "Transcript\nCertificate of Enrollment\nCertificate of Attendance\nTemporary Absence Certification\nCertificate of(Expected) Course Completion\nCertificate of(Expected) Graduation",
+        "Graduate": "Transcript\nCertificate of Attendance\nResearch Registration Certificate\nCertificate of Enrollment\nTemporary Absence Certification\nCertificate of(Expected) Course Completion\nCertificate of(Expected) Graduation"
+    }
+]
+
+- Issuance Fee
+
+[
+    {
+        "": "Fee",
+        "On-site": "1,000\uc6d0",
+        "Internet": "500\uc6d0",
+        "Kiosk": "700\uc6d0"
+    }
+]
+
+- Online Application(Issued immediately)
+
+Operation Hour : 24 hours
+Click ‘Certificate Issuance’ at the bottom of website of SKKU
+The certificate has legal effect since electronic certificate number, e-stamp and barcode is printed. And the certificate issued by online or offline application is the same.
+Postal service is available via online application.(takes around 2-7 days.)
+For overseas postal service, please e-mail 18118585@skku.edu.
+
+- Offline Applicatio
+
+- Apply with a student ID or ID (choose 1 out of resident registration card, driver's license, alien registration card, and passport)- Office of Academic Affairs of the Humanities and Social Sciences Campus (1st floor of the 600th Anniversary Hall): 09:00~17:30- Office of Academic Affairs of Natural Sciences Campus (General Administration Office, 1st Floor, Student Center): 09:00~17:30- Closed on Saturdays, Sundays, and holidays/lunch hours 12:00~13:00Certificate of Tuition payment:
+GLS – Academic Status/Personal Area–Tuition Fee-Cert. of Tuition Payment
+
+Certificate of Residence in Dormitory :
+( Administration office of Dormitory Seoul) 1st floor, 600th Anniversary Building/(Suwon) 1st floor, Sin kwan dormitory
+
+- Attention
+
+Certificates are not issued to students that did not submit an Insurance Certificate to the Office of International Student Services.
+Contact : Office of International Student Services(02-760-0024, 031-290-5026)
+
+- Correction of personal information in the school record
+
+Correction of name, date of birth, and ARC number in school record is possible by GLS
+
+- Application Method
+
+Correction of name, date of birth, ARC number is availble via GLS
+(GLS - Academic Status/Personal Area - Academic Status/Personal Info. - Correction of personal info.)
+Proof of document must be uploaded at the time of application.
+Additional documents can be requested for confirmation.

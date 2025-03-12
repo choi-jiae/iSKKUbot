@@ -1,0 +1,89 @@
+
+
+- Health Insurance
+
+
+
+- National Health Insurance System (NHIS)
+
+The National Health Insurance (NHI) system is one of the social insurance schemes that provides benefits for the prevention, diagnosis, treatment etc. of possible diseases and injuries for the purpose of improving citizens’ health and promoting social security.※ The social security system of Korea has three components: social insurance, public assistance, and social welfare service. Please refer to National Health Insurance Service website (Click) for further information.All international students must be insured by the National Health Insurance Program. The purpose of health insurance is to protect international students from unexpected accidents or high unforeseen expenses for medical treatment.※ It is mandatory for all international students who are staying in Korea to register for health insurance with the National Health Insurance of Korea from March 1, 2021. Even if an international student do not report to the National Health Insurance Service (NHIS), NHIS automatically processes the registration.International students are automatically subscribed to the National Health Insurance Service (NHIS) when their alien registration is completed.Once expatriates and students who have F Visa have to join the National Health Insurance by himself/herself and any changes in the place he/she lives·passport·number·status of residence, students should report it nearest NHIS center
+
+- NHI Eligibility Acquisition(Date of joining)
+
+[
+    {
+        "Visa Types": "D-2 Student Visa (Full-time degree/Exchange Program)\n\nD-4-3 Visa (Elementary/Middle/High school students)",
+        "Date of eligibility acquisiton": "\u2219 Date of initial arrival \u2192Date of alien registration"
+    },
+    {
+        "Visa Types": "D-2 Student Visa (Full-time degree/Exchange Program)\n\nD-4-3 Visa (Elementary/Middle/High school students)",
+        "Date of eligibility acquisiton": "\u2219 Reentry\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 Date of reentry"
+    },
+    {
+        "Visa Types": "D-4 Visa (General Trainee, Korean Language Program)",
+        "Date of eligibility acquisiton": "\u2219 6 months after the date of arrival"
+    },
+    {
+        "Visa Types": "F-4, Overseas Korean Visa",
+        "Date of eligibility acquisiton": "\u2219 Date of school entrance after arrival in Korea\n\n\u00a0\u00a0(Enrollment certificate required)"
+    }
+]※ NHI card and Subscription Guide are sent to your residential address in Korea.
+※ Before receiving the Alien Registration Card (ARC), you can use National Health Insurance by issuing ‘Certificate of Foreigner Registration’[외국인등록사실증명] from the Immigration and Foreign Offices
+
+- Private(Personal) Insurance prior to Alien Registration
+
+Since the National Health Insurance is applied only 'after the date of completion of alien registration', it is not subscribed to National Health Insurance until your alien registration is completed.
+It will take around 6 to 8 weeks to apply for and receive the Alien Registration Card (ARC). It means, the subscription to National Health Insurance will be processed in 6 to 8 weeks, and it will not be covered by insurance during this period.
+It is strongly recommended for all international students to subscribe in advance to a personal insurance valid for 2 to 3 months from the moment of arrival to Korea.
+
+- Equal Benefits with Those of Korean Citizens
+
+(Benefits) NHI subscribers are required to make a partial* payment at the point of receiving services, and the National Health Insurance Service (NHIS) will pay the rest to the providers.
+* 20% of the medical expenses is required for inpatient services, and 30~60% for outpatient services.
+※ Please note that the above apply only to covered services and one must pay the full price for non-covered services.
+(Health Check-ups) Health Check-ups are provided every other year based on one’s birth year.
+ex) Those eligible for a health check-up in 2022 are those whose birth year is an even number.
+(Easy Access to Services) No additional procedure is required to use services at hospital, clini, dentist, Korean medicine clinic, etc.
+Please refer to National Health Insurance Service website (Click) for further information about Insurance Benefits(Health Care Benefits/Health Check-ups/Co-Payment/Others).
+
+- Disadvantages with Non-payment of Contributions
+
+(Restrictions on Health Insurance Benefits) The use of health insurance services at medical care institutions (e.g. hospitals, clinic, etc.) is limited until the arrears of the contributions are fully paid.
+(Restrictions on Visa Extension) Disadvantages (restrictions on visa extension) may occur when applying for permission of stay to the Ministry of Justice such as visa extension).
+
+- National Health Insurance Exclusion Application
+
+1) Please check with NHIS call center for detailed exception conditions.(Target Population) Medical guarantee equivalent to the NHI benefits in accordance with foreign statutes, a foreign insurance or a contact concluded with his or her employer.
+
+Foreign statutes: France (Except for the government agreement, permanent residents etc), Japan (compensation for medical expenses in the home country), United States, United Nations (government officials, soldiers, retirees and their families).
+Foreign insurance: Foreign private insurance, Subscription before stay in Korea, insurance premiums are paid by yourself.
+Contract with his or her employer: Employers pay for the medical expenses of its employees based on their contract, etc.※ There has to be no restriction on covered amount of money, coverage, frequency. (Large amount of money covered from employer such as more than 800,000usd will be considered no restrictions.)
+∙ In case of female, chlidbirth and pregnancy costs have to be involved in coverage. Otherwise it will not be accepted.2) Required Document(Common) Declaration of Qualification Loss, Application for exclusion for registration, Documents that prove you will receive medical cover
+※ Every document must include Korean-translated version (no need notarization). Otherwise it will be refused.
+(Foreign Law) Japan - Japanese health insurance card, The US military - Uniform card
+(Contract with his or her employer) Employment contract proves you have above 70% of medical cover by your employer, Proof of Facts if employer has been paying medical fee to employees (documents showing medical fee was provided to other workers are also available).
+* Official Document, Proof of Expense, Account Book
+(Foreign Insurance) Insurance policy included in domestic health insurance with Korean-translated version (It can be translated by applicant)
+* Foreign Insurance launched in Korea will not be accepted, English-translated version of Insurance Policy will be required if it is written in other language
+Please refer to National Health Insurance Service website (Click) for further information
+
+- The NHIS Center for Foreign Residents
+
+(Services) Eligibility and contribution management for the insured foreigners[
+    {
+        "Center": "Seoul Center",
+        "Location": "3rd floor, Sindorim Techno Mart(Upmu-dong), 97, Saemal-ro, Guro-gu, Seoul",
+        "Further Information": ""
+    },
+    {
+        "Further Information": "",
+        "Center": "Suwon Center (Incheon-Gyeonggi Center)",
+        "Location": "1st floor, Cheonggung Building, 119, Hyowon-ro, Paldal-gu, Suwon-si, Gyeonggi-do"
+    }
+]
+
+- The NHI Call Center
+
+Tel: (NHIS Main) 1577-1000
+Tel: (Foreign language service in English, Chinese, Vietnamese) 1577-1000(Extension Number 6 = Dial 6 for information in foreign language) or 033-811-2000
+Tel: (Overseas) 82-33-811-2001

@@ -1,0 +1,7 @@
+Course registration
+Course Registration
+Term for Course Registration
+
+Electrical timetable: able to look for information about courses 
+ Course bag: It is similar to the cart in online shopping. With a course bag, a student can add the courses he/she wants to take maximum to his available total credits+6 credits. Also, he/she can check the day, time of class and the remains
+ Syllabus: Check textbooks, book references, assessment methods and type of the class

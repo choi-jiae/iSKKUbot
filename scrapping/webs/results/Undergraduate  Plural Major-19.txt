@@ -1,0 +1,48 @@
+Undergraduate  Plural Major
+Interdisciplinary Major
+College or School Office in Charge of Interdisciplinary Programs
+
+[
+    {
+        "Department": "Comparative Culture Japanology Global-Cultural Contents Data Science",
+        "Office": "College of Liberal Arts Administration Office",
+        "Contact": "02-760-0912~4",
+        "Location": "(Humanities and Social Sciences Campus) Toegye Hall of Humanities 3rd floor"
+    },
+    {
+        "Department": "International Trade Business",
+        "Office": "Business School/College of Economics Administration Office",
+        "Contact": "02-760-0944~5",
+        "Location": "(Humanities and Social Sciences Campus)Business School 4th Floor"
+    },
+    {
+        "Department": "Legal Policy Studies",
+        "Office": "College of Global Leader Administrative Office",
+        "Contact": "02-760-0191",
+        "Location": "(Humanities and Social Sciences Campus) Law School 2nd Floor"
+    },
+    {
+        "Department": "Genetic Engineering",
+        "Office": "School of Pharmacy/College of Biotechnology and Bioengineering/College of Sport Science Administration Office",
+        "Contact": "031-290-5871~3",
+        "Location": "(Natural Sciences Campus)Life Science and Technology 2nd floor"
+    },
+    {
+        "Department": "Korean Studies",
+        "Office": "Academy of East Asian Studies",
+        "Contact": "02-760-0775",
+        "Location": "(Humanities and Social Sciences Campus)600th Anniversary Hall 4th Floor"
+    },
+    {
+        "Department": "Energy Science Interdisciplinary Informatics",
+        "Office": "SKKU Institute for Convergence Administration Office",
+        "Contact": "031-299-4272",
+        "Location": "(Natural Sciences Campus)Research Complex 2 1st Floor"
+    },
+    {
+        "Department": "IT Convergence",
+        "Office": "College of Information and Communication Engineering Administration Office",
+        "Contact": "031-290-5811~5",
+        "Location": "(Natural Sciences Campus) Engineering Building 1, 1st Floor"
+    }
+]

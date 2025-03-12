@@ -1,0 +1,16 @@
+Certificate Issuance
+
+Administration office
+
+[
+    {
+        "Certification Type": "Academic Certification",
+        "Office": "Academic Affairs",
+        "Location": "Humanities and Social Sciences Campus : 600th Anniversary Building 1st floor\n\nNatural Sciences Campus : Student Center 1st floor"
+    },
+    {
+        "Certification Type": "Proof of Enrollment",
+        "Office": "Finance Team",
+        "Location": "Humanities and Social Sciences Campus : 600th Anniversary Building 1st floor\n\nNatural Sciences Campus : Engineering Building 1/ 1st floor"
+    }
+]

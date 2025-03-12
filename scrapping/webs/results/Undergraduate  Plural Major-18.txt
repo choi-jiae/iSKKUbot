@@ -1,0 +1,61 @@
+Undergraduate  Plural Major
+Interdisciplinary Major
+Interdisciplinary Programs
+
+[
+    {
+        "College or School in Charge": "College of Liberal Arts",
+        "Department": "Comparative Culture",
+        "Participating Departments": "Korean/ English/ French/ Chinese/ German/ Russian Language and Literature, Korean Literature in Classical Chinese, History, Philosophy"
+    },
+    {
+        "College or School in Charge": "College of Liberal Arts",
+        "Department": "Japanology",
+        "Participating Departments": "Korean Language and Literature, English Language and Literature, History, College of Confucian Studies and Eastern Philosophy, Law, Political Science and Diplomacy, Business Administration"
+    },
+    {
+        "College or School in Charge": "College of Liberal Arts",
+        "Department": "Global-Cultural Contents",
+        "Participating Departments": "Korean/ English/ French/ Chinese/ German/ Russian Language and Literature, Korean Literature in Classical Chinese, History, Philosophy, Library and Information Science"
+    },
+    {
+        "College or School in Charge": "College of Liberal Arts",
+        "Department": "Data Science",
+        "Participating Departments": "Library and Information Science, Computer Education, Statistics, Consumer and Family Sciences, German Language and Literature"
+    },
+    {
+        "College or School in Charge": "College of Economics",
+        "Department": "International Trade Business",
+        "Participating Departments": "English / French / German /Russian / Chinese Language and Literature, History, Law, Public Administration, Political Science and Diplomacy, Economics, Business Administration"
+    },
+    {
+        "College or School in Charge": "College of Social Sciences",
+        "Department": "Legal Policy Studies",
+        "Participating Departments": "School of Global Leader, Business Administration"
+    },
+    {
+        "College or School in Charge": "College of Biotechnology and Bioengineering",
+        "Department": "Genetic Engineering",
+        "Participating Departments": "Food and Life Science, Bio-Mechatronics Engineering, Genetic Engineering"
+    },
+    {
+        "College or School in Charge": "Office of International Affairs",
+        "Department": "*Korean Studies",
+        "Participating Departments": "College of Confucian Studies and Eastern Philosophy, Korean Language and Literature, History, Political Science and Diplomacy, Journalism and Mass Communications,Sociology, Economics, School of Business, Academy of East Asian Studies"
+    },
+    {
+        "College or School in Charge": "SKKU Institute for Convergence",
+        "Department": "Energy Science",
+        "Participating Departments": "Energy Science, Electronic and Electrical Engineering, Advanced Materials Science & Engineering, Polymer Science & Engineering, Mechanical Engineering"
+    },
+    {
+        "College or School in Charge": "SKKU Institute for Convergence",
+        "Department": "Interdisciplinary Informatics",
+        "Participating Departments": "Software, Global Economics, Global Business Administration, Design, Education, Global Biomedical Engineering"
+    },
+    {
+        "College or School in Charge": "College of Information and Communication Engineering",
+        "Department": "IT Convergence",
+        "Participating Departments": "Computer Engineering, Software"
+    }
+]The Interdisciplinary Program for Korean Studies is available only for International Students

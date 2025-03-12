@@ -1,0 +1,21 @@
+Undergraduate  Plural Major
+Multiple Major(Plural Major)
+Allocation Ranking of the Applicants
+
+Students enrolled for less than 5 semesters and meet the credit criteria below are assigned with higher priority.[
+    {
+        "No. of Semesters Enrolled": "Credit Criteria",
+        "3": "40 credits",
+        "4": "55 credits",
+        "5": "70 credits",
+        "6": "85 credits",
+        "7": "100 credits"
+    }
+]Students with same the GPA are allocated according to the following order of priority:
+
+① Number of grades higher than A
+② Number of grades higher than B
+③ Number of grades higher than C
+④ Number of grades higher than D
+⑤ Students with less F
+⑥ If all the criteria above is the same, both students are allocated.

@@ -1,0 +1,12 @@
+Certificate Issuance
+
+Issuance Fee
+
+[
+    {
+        "": "Fee",
+        "On-site": "1,000\uc6d0",
+        "Internet": "500\uc6d0",
+        "Kiosk": "700\uc6d0"
+    }
+]

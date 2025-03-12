@@ -1,0 +1,94 @@
+
+
+- Academic Advising
+
+
+
+- Sungkyun Tutoring
+
+Sungkyun Tutoring motivates students by studying in pairs.
+Tutor qualification : Students that obtained a grade higher than an A
+How to enroll : SKKU recruits tutors and tutees at the beginning of every semester and the process is managed by the Kingo Portal ‘Sungkyun Tutoring System’.
+
+- Academic Consulting
+
+Academic advisors provide all SKKU students with the knowledge, tools, and resources they need to successfully manage their college experience and accomplish their academic objectives. Our advisors are committed to helping students make a successful transition from their home country to the University and Korea as well as helping them develop an appropriate academic plan.
+How to make an appointment :
+SKKU Homepage (http://www.skku.edu) Notice → Search for “[학습컨설팅]프로그램 참여자모집” → Check the available date on the calender and click “신청하기(Register)”→ Visit the center on the reserved date
+Services are available during semesters and vacations.
+Students must do diagnostic tests before consultation.
+
+- Academic Consulting
+
+Academic advisors provide all SKKU students with the knowledge, tools, and resources they need to successfully manage their college experience and accomplish their academic objectives. Our advisors are committed to helping students make a successful transition from their home country to the University and Korea as well as helping them develop an appropriate academic plan.
+How to make an appointment :
+SKKU Homepage (http://www.skku.edu) Notice → Search for “[학습컨설팅]프로그램 참여자모집” → Check the available date on the calender and click “신청하기(Register)”→ Visit the center on the reserved date
+Services are available during semesters and vacations.
+Students must do diagnostic tests before consultation.
+
+- Contact
+
+TEL : 02-760-0977
+Location : Humanities and Social Sciences Campus, 600th Anniversary Hall, 2nd floor
+Email : ctl_skku@skku.edu
+
+- Student Counseling Center
+
+The Counseling Center provides services that address issues such as mental health and relationship violence. We are staffed by experienced clinicians who are here to assist students in addressing concerns related to adjusting to college life. We are committed to enhancing the academic mission of the University through providing counseling, as well as prevention, education, and outreach activities. Please feel free to call or visit the Counseling Center if you have concerns.
+
+- How to Make an Appointment
+
+http://scc.skku.edu/ → Click the green banner [ON LINE 심리상담 및 신청]
+
+- Location and Phone Number
+
+[
+    {
+        "Humanities and Social Sciences Campus": "Tel : 02) 760-1290\nLocation : Dasan Hall of Economics 1st floor 32105",
+        "Natural Sciences Campus": "Tel : 031) 290-5260\nLocation : Shops & Services Center 3rd floor 04209"
+    }
+]
+
+- Gender Equality Counseling Center
+
+Gender Equality Counseling Center provides privileged and confidential support services, advocacy, and counseling to all students who have concerns related to any form of sexual misconduct, including sexual assault, relationship violence, and sexual harassment.
+
+- Services
+
+Individual Counseling
+Students are seen for confidential individual counseling, on a short-term basis, to discuss concerns related to personal, educational, relationship, family, substance abuse, and other social or emotional problems. The number of sessions is based on the student's needs and the therapist's judgment.
+
+Individual counseling for victims of sexual violence/harassment
+Individual counseling/education for offenders of sexual violence
+Individual counseling about any issue related to sexuality
+
+Group Counseling
+The Counseling Center offers group counseling opportunities each semester, depending on students’ needs. Students may contact the Counseling Center to inquire about the groups being offered for any given semester, or check out the website.
+
+Group counseling for victims of sexual violence/harassment
+Group counseling/education for offenders of sexual violence
+Group seminar/education for a healthy relationship
+
+Online Counseling
+          The online counseling is available 24 hour a day on the website.(http://scc.skku.edu/)
+Reception of sexual violence/harassment cases
+It can be reported/filed by a victim him/herself or a third party for advice and further procedure.
+
+Provide a countermeasure to minimize the damage due to the sexual violence.
+Summon the offender and make a thorough investigation into the case.
+
+Sex Education and Prevention Program
+Various education programs/seminars and materials are provided to prevent the sexual violence/harassment and foster the better relationship by enhancing the knowledge about the sexuality.
+
+Education program for a healthy relationship
+Prevention education programs for sexual discrimination/violence/harassment
+Multimedia materials about sexuality
+
+- Location and Phone Number
+
+[
+    {
+        "Humanities and Social Sciences Campus": "Tel : 02) 760-1299\nLocation : Dasan Hall of Economics 1st floor 32105",
+        "Natural Sciences Campus": "Tel : 031) 290-5682\nLocation : Shops & Services Center 3rd floor 04209"
+    }
+]

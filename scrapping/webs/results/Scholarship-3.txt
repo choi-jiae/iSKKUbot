@@ -1,0 +1,21 @@
+Scholarship
+SKKU Scholarship
+Merit-based Scholarship for International Graduate Students
+
+A student who entered SKKU through International Student Admission Track and acquired 3 or more credits without “F” and obtained the average GPA of the previous semester following :(-Professional/Special Graduate School students are not included. If one gets "F" on prerequisite course, the scholarship is not given)[
+    {
+        "GPA Average": "4.5 or Above",
+        "Amount(Entering SKKU 2022 or before)": "50% of Tuition Fee",
+        "Amount(Entering SKKU 2023 or after)": "50% of Tuition Fee"
+    },
+    {
+        "Amount(Entering SKKU 2022 or before)": "50% of Tuition Fee",
+        "GPA Average": "Between 4.2 and 4.5",
+        "Amount(Entering SKKU 2023 or after)": "30% of Tuition Fee"
+    },
+    {
+        "GPA Average": "Between 3.8 and 4.2",
+        "Amount(Entering SKKU 2022 or before)": "30% of Tuition Fee",
+        "Amount(Entering SKKU 2023 or after)": "20% of Tuition Fee"
+    }
+]

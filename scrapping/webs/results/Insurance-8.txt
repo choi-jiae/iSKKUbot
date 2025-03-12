@@ -1,0 +1,16 @@
+Insurance
+Health Insurance
+The NHIS Center for Foreign Residents
+
+(Services) Eligibility and contribution management for the insured foreigners[
+    {
+        "Center": "Seoul Center",
+        "Location": "3rd floor, Sindorim Techno Mart(Upmu-dong), 97, Saemal-ro, Guro-gu, Seoul",
+        "Further Information": ""
+    },
+    {
+        "Further Information": "",
+        "Center": "Suwon Center (Incheon-Gyeonggi Center)",
+        "Location": "1st floor, Cheonggung Building, 119, Hyowon-ro, Paldal-gu, Suwon-si, Gyeonggi-do"
+    }
+]

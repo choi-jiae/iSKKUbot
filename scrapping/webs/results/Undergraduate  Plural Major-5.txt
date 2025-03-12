@@ -1,0 +1,12 @@
+Undergraduate  Plural Major
+
+Restrictions on Departmental Admission
+
+International students who were admitted through special admission are required to submit a Korean language certificate before entering their 2nd academic year. If they fail to meet the requirement, students will be restricted when applying for majors.[
+    {
+        "Important Notes": "Requirement: TOPIK : Level 4 or above\n\nCertificate of Sungkyun Language Institute : Level 4 or above"
+    },
+    {
+        "Important Notes": "Submission Deadline: Entering 2nd academic year in March (Spring Semester) : Dec. 30th\n\nEntering the 2nd academic year in September (Fall Semester) : June 30th"
+    }
+]If students satisfy the requirements after the deadline, the restriction will be removed and students will be eligible to apply for departmental admission from the following semester.

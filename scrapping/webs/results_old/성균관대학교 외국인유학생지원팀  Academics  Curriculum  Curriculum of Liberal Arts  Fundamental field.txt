@@ -1,0 +1,147 @@
+
+
+- Credit system of Sungkyun Humanity/Liberal Arts/Fundamental Courses for International Students
+
+A specially designed Sungkyun Humanity/Liberal Arts/Fundamental course curriculum is provided for international students to improve their learning abilities.(International students are exempt from fulfilling credits of each category in Sungkyun Humanity/ Liberal Arts/Fundamental)Credit system of Sungkyun Humanity/Liberal Arts/Fundamental categories for students who entered SKKU via international student admission[
+    {
+        "Category": "Sungkyun Humanity",
+        "Completion": "Complete total number of credits in Sungkyun Humanity+Core Liberal arts category"
+    },
+    {
+        "Completion": "Complete total number of credits in Sungkyun Humanity+Core Liberal arts category",
+        "Category": "Liberal Arts: Core"
+    },
+    {
+        "Category": "Liberal Arts: Balance",
+        "Completion": "Complete total number of credits in Balance Liberal arts category."
+    },
+    {
+        "Category": "Basic",
+        "Completion": "Complete designated credits for each major"
+    }
+]
+
+- Credit requirement of Sungkyun Humanity/Liberal Arts/Fundamental Courses for students joined from 2016 to 2019
+
+[
+    {
+        "Department": "Humanities, Global Leader,Social Sciences, Global Economics,Business Administration, Global Business Administration,Education, Education in Classical chinese, Art",
+        "Affiliated College": "Confucian Studies and Eastern Philosophy, Liberal Arts, Social Sciences, Economics, Business, Education, Art",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Balance Liberal Arts": "9",
+        "Fundamental Courses": "9",
+        "Total": "38"
+    },
+    {
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Balance Liberal Arts": "9",
+        "Department": "Natural Sciences",
+        "Affiliated College": "Natural Sciences",
+        "Fundamental Courses": "24",
+        "Total": "53"
+    },
+    {
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Balance Liberal Arts": "9",
+        "Department": "Natural Sciences",
+        "Fundamental Courses": "24",
+        "Affiliated College": "Bioengineering",
+        "Total": "53"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Department": "Electronic and Electrical Engineering",
+        "Affiliated College": "Information and Communication Engineering",
+        "Sungkyun Humanity + Core Liberal Arts": "16",
+        "Fundamental Courses": "30",
+        "Total": "55"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Affiliated College": "Information and Communication Engineering",
+        "Sungkyun Humanity + Core Liberal Arts": "16",
+        "Department": "Semiconductor Systems Engineering",
+        "Fundamental Courses": "24",
+        "Total": "49"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "16",
+        "Department": "Software",
+        "Affiliated College": "Software",
+        "Fundamental Courses": "24",
+        "Total": "49"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "16",
+        "Department": "Engineering, Global Biomedical Engineering",
+        "Affiliated College": "Engineering, Institute for Convergence",
+        "Fundamental Courses": "30",
+        "Total": "55"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Department": "Mathematics Education,Computer Education",
+        "Affiliated College": "Education",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Fundamental Courses": "15",
+        "Total": "44"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Department": "Architecture",
+        "Affiliated College": "Engineering",
+        "Fundamental Courses": "18",
+        "Total": "47"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Department": "Sports Science",
+        "Affiliated College": "Sports Science",
+        "Fundamental Courses": "9",
+        "Total": "38"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Department": "Medicine",
+        "Affiliated College": "Medicine",
+        "Fundamental Courses": "18",
+        "Total": "47"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Department": "-",
+        "Affiliated College": "Global Integration College",
+        "Fundamental Courses": "9",
+        "Total": "38"
+    }
+]※ Students of College of Software joined in 2016- For students of College of Software should take Fundamental Software courses(4 credits) and Basic Natural Sciences category courses(21 credits) among 50 credits in total
+
+- International Student Exclusive Courses
+
+[
+    {
+        "Category": "Sungkyun Humanity/ Core Liberal Arts",
+        "International Student Exclusive Course(credit)": "Understanding of Coummuniation1(2)\nUnderstanding of Coummuniation2(2)\nUnderstanding of Creative Thinking (2)\nReading in Korean Media(2)\nDocument Writing in Korean(2)\nSpeech and Language Etiquette(2)\nUnderstanding of Coummuniation3(2)\nUnderstanding of Coummuniation4(2)\nAcademic Presentation & Discusion1(2)\nAcademic Presentation & Discusion2(2)\nThinking and Expression2(2): 22",
+        "Remark": "International students can take either exclusive courses or general courses"
+    },
+    {
+        "Remark": "International students can take either exclusive courses or general courses",
+        "Category": "Balance Liberal Arts",
+        "International Student Exclusive Course(credit)": "Understanding of Human(2)\nUnderstanding of Culture(2)\nUnderstanding of Social HIstrory(2)\nUnderstanding of Korean Culture(2)\nUnderstanding of Korean HIstory(2)\nKorean Society and Media(2)\nKorean Culture and Language(2) \nGuidance of Living and Career Development in Korea 1(1): 15"
+    },
+    {
+        "Category": "Elective",
+        "International Student Exclusive Course(credit)": "FYE Seminar1(1): 1",
+        "Remark": ""
+    },
+    {
+        "Category": "Total",
+        "International Student Exclusive Course(credit)": "29 credits or more"
+    }
+]

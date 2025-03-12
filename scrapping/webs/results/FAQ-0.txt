@@ -1,0 +1,32 @@
+FAQ
+
+
+
+//<![CDATA[
+  var resPath = '/_custom/shb/resource/', isEditorImageUpload = 'true' == 'false'? false: true, clientId = 'shb', boardTy = 'common', boardNo = '1118', siteId = 'oiss';
+//]]>A partial tuition fee refund for the withdrawn course.
+              
+OISS
+Hit4663
+2016-03-14
+
+
+I would like to get a partial tuition fee refund for the withdrawn course.
+
+Since the course withdrawal is made through individual student decision for personal reasons despite the course being offered normally, partial tuition refund is not possible.
+
+
+
+Previous
+            
+No previous post
+
+            
+
+Next
+Retaking a course
+
+
+
+
+List

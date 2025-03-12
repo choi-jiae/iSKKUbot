@@ -1,0 +1,75 @@
+
+
+- Undergraduate Graduation Requirements
+
+To acquire a bachelor’s degree students need to register for all regular semesters required, complete the curriculum, and pass a dissertation examination. A student expecting his/her 7th semester(For transfer students, 3th semester) is required to self-examine the graduation requirements before the start of course registration period for the corresponding semester.
+
+- Graduation Requirements for International Students
+
+[
+    {
+        "Registration": "Minimum of 8 semesters",
+        "Credits Required for Graduation": "Must meet credit requirements/ qualify graduation test for one\u2019s major",
+        "GPA": "2.00 or greater",
+        "Graduation Dissertation": "Varies according to dept.",
+        "\u201c3 PUM\u201d (3 Qualifications)": "Global Qualification*"
+    }
+]International students are exempt from credit requirement of International Language CoursesStudent who entered in 2014~2015: TOPIK level 4 or above
+Student who entered after 2016: TOPIK level 5 or above
+(Transfer or English track students are exempted)
+
+- Course Completion
+
+When a student only fulfills credit and minimum GPA requirements but fails to pass the dissertation examination, the student is marked as ‘completed’.
+A student who is in course completion status cannot acquire a bachelor’s degree, but can only print out a ‘Certificate of completion’.
+If the completed student acquires the requirements for graduation within the next semester, a bachelor’s degree is given on the semester’s graduation date at the end of each academic semester.
+There is no time limitation to acquire the requirements for graduation after completion.
+An international undergraduate student could not stay in Korea after his graduation since his D-2 visa would be expired at the moment of completion
+
+- Graduation Requirement
+
+Depending on the department graduation requirement differs. Students must check the requirements with the department office of one’s major.
+Students doing multiple majors should meet the graduation requirement for both the first, second, and third dept. If the student fails to fulfill any of the requirements, he/she cannot graduate.
+
+- Graduate School Graduation Requirements
+
+To acquire a master’s degree and Ph.D., students should fulfill all the requirements including registering for regular semesters required, fulfilling the minimum credits for completion, passing the dissertation submission qualifying examination, qualifying Korean language ability, and successfully defending the dissertation examination.
+
+- General Graduate School-Master Degree Acquisition Requirements
+
+Registration(4 semesters) + Fulfilling all requirements of requisite and prerequisite course credits + Obtaining GPA(over 3.00 based on acquired credits) + Passing the dissertation submission qualifying examination + Successfully defending dissertation examination
+* Students admitted by submitting proof of English proficiency should satisfy the minimum requirement of Korean language ability before graduation.(from the 2017 Spring semester). If requirements are unmet, a student will not be able to apply for dissertation review and graduate.
+
+- General Graduate School-Doctorate Degree Acquisition Requirements
+
+-Registration(4 semesters) + Fulfilling all requirements of requisite and prerequisite course credits + Obtaining GPA (over 3.00 based on acquired credits) + Registration for research(4 semesters max.) + Passing the dissertation submission qualifying examination + Successfully defending dissertation examination
+* Students admitted by submitting proof of English proficiency should satisfy minimum requirement of Korean language ability before graduation.(from 2017 Spring semester). If requirements are unmet, student will not be able to apply for dissertation review and graduate.
+
+- General Graduate School-Combined Master and Ph.D Program Graduation Requirements
+
+Registration(8 semesters) + Fulfilling all requirements of requisite and prerequisite course credits + Registration for Research(4 semesters max.) + Obtaining GPA (over 3.00 based on acquired credits) + Passing the dissertation submission qualifying examination + Successfully defending dissertation examination
+* Students admitted by submitting proof of English proficiency should satisfy minimum requirement of Korean language ability before graduation.(from 2017 Spring semester)
+If requirements are unmet, student will not be able to apply for dissertation review and graduate.
+
+- Professional Graduate School-Master Degree Acquisition Requirements
+
+Professional Graduate School Master Program Class
+→ Registration(4 semesters) + Fulfilling all requirements of requisite and prerequisite course credits + Obtaining GPA(over 3.00 based on acquired credits) + Passing the dissertation submission qualifying examination + Successfully defending dissertation examination(Including thesis replacement if needed)
+
+ Professional Graduate School Professional Master Program
+- Dissertation Track: Registration(4 semesters) + Fulfilling all requirements of requisite and prerequisite course credits + Obtaining GPA(over 3.00 based on acquired credits) + Passing the dissertation submission qualifying examination + Successfully defending dissertation examination
+- Dissertation Replacement by Credits Track: Registration(4 semesters) + Fulfilling all requirements of requisite and prerequisite course credits + Obtaining GPA(over 3.00 based on acquired credits) + Dissertation replacement credit/Success passing evaluation
+
+- Professional Graduate School-Doctorate Acquisition Requirements
+
+Registration(4 semesters) + Fulfilling all requirements of requisite and prerequisite course credits + Registration for Research(4 semesters max) + Obtaining GPA(over 3.00 based on acquired credits) + Passing the dissertation submission qualifying examination + Successfully defending dissertation examination
+
+- Professional Graduate School-Combined Master and Ph.D Program Graduation Requirements
+
+Registration(8 semesters) + Fulfilling all requirements of requisite and prerequisite course credits + Registration for Research(4 semesters max) + Obtaining GPA(over 3.00 based on acquired credits) + Passing the dissertation submission qualifying examination + Successfully defending dissertation examination
+
+- Special Graduate School-Master Degree Acquisition Requirements
+
+Dissertation Track: Registration(5 semesters) + Fulfilling all requirements of requisite and prerequisite course credits) + Obtaining GPA(over 3.00 based on acquired credits) + Passing the dissertation submission qualifying examination + Successfully defending dissertation examination
+
+ Dissertation Replacement by Credits Track: Registration(5 semesters)+ Fulfilling all requirements of requisite and prerequisite course credits)+ Obtaining GPA(over 3.00 based on acquired credits)+ Completing credits to replace the dissertation

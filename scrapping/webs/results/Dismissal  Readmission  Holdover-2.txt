@@ -1,0 +1,8 @@
+Dismissal  Readmission  Holdover
+Dismissal (Disenrollment)
+Unsatisfactory Academic Performance (Undergraduate)
+
+A student is dismissed if he/she receives 3 consecutive academic warnings or 4 academic warnings in total since the academic year of 2000, despite two holdovers.
+A student joined since the academic year of 2001 is dismissed if he/she fails to achieve a GPA more than 1.00 in two consecutive semesters.
+Academic warnings remain regardless of a student’s enrollment status (holdover, dismissal, and LOA) and can be continuously accumulated. However, the academic warnings that a readmitted student received during his/her first admission will be deleted.
+If a readmitted student who was dismissed before due to the accumulation of academic warnings receives 3 consecutive academic warnings or 4 academic warnings in total they will be permanently dismissed.

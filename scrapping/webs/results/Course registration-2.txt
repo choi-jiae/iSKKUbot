@@ -1,0 +1,6 @@
+Course registration
+Course Registration
+How to do course registration and standard
+
+Finding courses can be conducted on electrical timetable on GLS, and actual course registration should be conducted on the site only for course registration(http://sugang.skku.edu)
+The standard for the lecture application is not a subject, but a course. Therefore, if the same subject is opened in several classes (divisions), you must select a specific class and apply for that class exactly, and if you participate in the class in a different class from the class you registered, you cannot receive credits and grades even if the contents of the class are the same as the instructor​

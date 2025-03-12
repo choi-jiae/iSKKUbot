@@ -1,0 +1,207 @@
+
+
+- University College Administration Office
+
+University College Administration Office is in charge of operating ISC(Intensive Study Course) and all other courses in liberal arts category.
+
+- Main Services
+
+Management of Intensive Study Course(ISC), other courses in liberal arts category
+Application and allocation for specific major
+Student counseling, student support for freshmen.
+
+- Contact & Location
+
+[
+    {
+        "Humanities and Social Sciences Campus": "\u260f 02) 760-0991~3\nLocation: Hoam Hall 2F",
+        "Natural Sciences Campus": "\u260f 031) 299-4223~4\nLocation: General Studies Bld. 2F"
+    }
+]
+
+- Administration Offices
+
+Each college has an administration office which is in charge of student counseling, student activities, and scholarships.
+
+- Main Services
+
+Academic affair like grduation, student counseling, scholarships, student activity support, etc.
+For Professional/Special Graduate Schools, its administration office is in charge of every academic issue except change of academic status.
+Except for College of Medicine, its administration office is in charge of all related issues.
+
+- Administration Office Locations and Phone Numbers
+
+[
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "University College/College of Education",
+        "Location": "Hoam Hall 2F",
+        "Academic(Leave of Absence, Graduation)": "031)299-4222",
+        "Major Courses(Curriculum)": "02)760-0993,\n\n0995"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "College of Confucian Studies&Eastern Philosophy/College of Liberal Arts",
+        "Location": "Toegye Hall of Humanities 3F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0912",
+        "Major Courses(Curriculum)": "02)760-0913"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "Law School",
+        "Location": "Law School 1F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0926",
+        "Major Courses(Curriculum)": "02)760-0923"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "College of Social Sciences",
+        "Location": "Suseon Hall 5F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0932",
+        "Major Courses(Curriculum)": "02)760-0935"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Location": "Suseon Hall 5F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0932",
+        "Administration Office": "College of Art",
+        "Major Courses(Curriculum)": "02)760-0933"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "College of Economics",
+        "Location": "Business School 4F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0945",
+        "Major Courses(Curriculum)": "02)760-0944"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "School of Business",
+        "Location": "Business School 4F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0943",
+        "Major Courses(Curriculum)": "02)760-0969"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "Global Economics",
+        "Location": "International Hall 2F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0042",
+        "Major Courses(Curriculum)": "02)760-0040"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "Global Business",
+        "Location": "International Hall 2F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0034",
+        "Major Courses(Curriculum)": "02)760-0034"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "Academy of East Asian Studies",
+        "Location": "600th Anniversary Hall 4F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0775",
+        "Major Courses(Curriculum)": "02)760-0777"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "SKK GSB",
+        "Location": "International Hall 2F",
+        "Academic(Leave of Absence, Graduation)": "Depending on a student\u2019s program"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "Graduate School of China",
+        "Location": "International Hall 3F",
+        "Academic(Leave of Absence, Graduation)": "02)740-1542~1544"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "Sungkyun Language Institute",
+        "Location": "Dasan Hall of Economics 3F",
+        "Academic(Leave of Absence, Graduation)": "02)760-1345(Admission)"
+    },
+    {
+        "Campus": "Humanities and Social Sciences Campus",
+        "Administration Office": "Office of International Student Services",
+        "Location": "International Hall 2F",
+        "Academic(Leave of Absence, Graduation)": "02)760-0025~0027"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "University College(NSC)",
+        "Location": "General Studies 2F",
+        "Academic(Leave of Absence, Graduation)": "031)299-4222",
+        "Major Courses(Curriculum)": "02)760-0993,\n\n0995"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "College of Biotechnology and\n\nBioengineering/College of Sport Science",
+        "Location": "Natural Science Building 2/2F",
+        "Academic(Leave of Absence, Graduation)": "031)290-5802",
+        "Major Courses(Curriculum)": "031)299-5803"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "College of Information and Communication Engineering",
+        "Location": "Engineering Building 1/1F",
+        "Academic(Leave of Absence, Graduation)": "031)290-5815",
+        "Major Courses(Curriculum)": "031)290-5817"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Location": "Engineering Building 1/1F",
+        "Academic(Leave of Absence, Graduation)": "031)290-5815",
+        "Major Courses(Curriculum)": "031)290-5817",
+        "Administration Office": "College of Software"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Location": "Engineering Building 1/1F",
+        "Academic(Leave of Absence, Graduation)": "031)290-5815",
+        "Administration Office": "College of Engineering",
+        "Major Courses(Curriculum)": "031)290-5816"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "School of Pharmacy",
+        "Location": "School of Pharmacy 3F",
+        "Academic(Leave of Absence, Graduation)": "031)290-5875",
+        "Major Courses(Curriculum)": "031)290-7720"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "School of Medicine",
+        "Location": "Medical School 1F",
+        "Academic(Leave of Absence, Graduation)": "031)299-6027"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "Sungkyun Advanced Institute of Nanotechnology (SAINT)",
+        "Location": "Research Complex 2/2F",
+        "Academic(Leave of Absence, Graduation)": "031)299-4115"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "Samsung Medical Science Center",
+        "Location": "Samsung Hospital at Ilwon Station Basement 2F",
+        "Academic(Leave of Absence, Graduation)": "02)2148-7798"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "Sungkyun Language Institute",
+        "Location": "Basic Academics Hall 2F",
+        "Academic(Leave of Absence, Graduation)": "02)760-1345(Admission)"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "SKKU Institute for Convergence",
+        "Location": "N Center 3,4F",
+        "Academic(Leave of Absence, Graduation)": "031)290-5705"
+    },
+    {
+        "Campus": "Natural Science Campus",
+        "Administration Office": "Office of International Student Services",
+        "Location": "Student Center 1F",
+        "Academic(Leave of Absence, Graduation)": "031)290-5025,5028"
+    }
+]

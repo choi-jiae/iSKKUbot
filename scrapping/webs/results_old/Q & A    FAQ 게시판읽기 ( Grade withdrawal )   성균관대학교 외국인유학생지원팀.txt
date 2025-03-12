@@ -1,0 +1,27 @@
+//<![CDATA[
+  var resPath = '/_custom/shb/resource/', isEditorImageUpload = 'true' == 'false'? false: true, clientId = 'shb', boardTy = 'common', boardNo = '1118', siteId = 'oiss';
+//]]>Grade withdrawal
+              
+OISS
+Hit5326
+2016-03-14
+
+
+Can I apply for a grade withdrawal during a leave of absence?
+
+No, you cannot.  You can only apply for it when you are enrolled.
+
+
+
+Previous
+Retaking a course
+
+Next
+            
+No new post
+
+            
+
+
+
+List

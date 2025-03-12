@@ -1,0 +1,6 @@
+Course
+Courses
+SKKU Internet Education System
+
+The icampus system and internet address is www.icampus.ac.kr.
+IDs and passwords for icampus are the same as GLS IDs and passwords.

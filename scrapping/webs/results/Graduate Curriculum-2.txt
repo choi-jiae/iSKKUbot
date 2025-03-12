@@ -1,0 +1,187 @@
+Graduate Curriculum
+Credit Requirements for Completion and Graduation
+General Graduate School/Professional Graduate School
+
+[
+    {
+        "Graduate School / Degree": "General: Master",
+        "Major": "12 or more",
+        "Elective": "12 or less",
+        "Total": "24",
+        "Remark": ""
+    },
+    {
+        "Graduate School / Degree": "General: PhD",
+        "Major": "18 or more",
+        "Elective": "18 or less",
+        "Total": "36",
+        "Remark": ""
+    },
+    {
+        "Graduate School / Degree": "General: Combined\nMaster/\nPhD: Humanity/Art: ",
+        "Elective": "30 or more",
+        "Total": "27 or less",
+        "Remark": "57"
+    },
+    {
+        "Graduate School / Degree": "General: Social Science\nNatural Science\nEngieering/Medicine: 30 or more",
+        "Elective": "27 or less",
+        "Total": "57",
+        "Remark": "Joined before 2011.9.1"
+    },
+    {
+        "Graduate School / Degree": "General: 30 or more: 21 or less",
+        "Major": "51",
+        "Elective": "Joined after 2012.3.1"
+    },
+    {
+        "Graduate School / Degree": "Professional: Business: Master: Joined after\n2009.9.1",
+        "Major": "MBA",
+        "Elective": "45",
+        "Total": "",
+        "Remark": "45"
+    },
+    {
+        "Graduate School / Degree": "Professional: Global MBA: 45",
+        "Major": "",
+        "Elective": "45",
+        "Total": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: EMBA: 45",
+        "Major": "",
+        "Elective": "45",
+        "Total": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Executive MBA: 45",
+        "Major": "",
+        "Elective": "45",
+        "Total": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Professional MBA: 45",
+        "Major": "",
+        "Elective": "45",
+        "Total": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Financial Insurance: 45",
+        "Major": "",
+        "Elective": "45",
+        "Total": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Master in Management Studies: 45",
+        "Major": "",
+        "Elective": "45",
+        "Total": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Master of Science in Business Analyics: 45",
+        "Major": "",
+        "Elective": "45",
+        "Total": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Finance: 45",
+        "Major": "",
+        "Elective": "45",
+        "Total": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Governance: Master: ",
+        "Elective": "24 or more",
+        "Total": "9 or less",
+        "Remark": "33"
+    },
+    {
+        "Graduate School / Degree": "Professional: PhD: 27 or more",
+        "Elective": "9 or less",
+        "Total": "36",
+        "Remark": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Combined\nMaster/PhD: 42 or more",
+        "Elective": "18 or less",
+        "Total": "60",
+        "Remark": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: China: Master: ",
+        "Major": "Chinese biz",
+        "Elective": "36",
+        "Total": "",
+        "Remark": "36"
+    },
+    {
+        "Graduate School / Degree": "Professional: Chinese Econmics: 36",
+        "Major": "",
+        "Elective": "36"
+    },
+    {
+        "Graduate School / Degree": "Professional: Chinese Studies in Entrepreneurship and Strategy: 36",
+        "Major": "",
+        "Elective": "36"
+    },
+    {
+        "Graduate School / Degree": "Professional: Chinese Finance: 36",
+        "Major": "",
+        "Elective": "36"
+    },
+    {
+        "Graduate School / Degree": "Professional: Law: Master: ",
+        "Elective": "90",
+        "Total": "",
+        "Remark": "90"
+    },
+    {
+        "Graduate School / Degree": "Professional: Phd: Profession",
+        "Major": "36",
+        "Elective": "",
+        "Total": "36",
+        "Remark": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Medicine: Master: ",
+        "Elective": "173",
+        "Total": "",
+        "Remark": "173"
+    },
+    {
+        "Graduate School / Degree": "Professional: Medicine: Combined\nMaster/PhD: ",
+        "Elective": "206",
+        "Total": "",
+        "Remark": "206"
+    },
+    {
+        "Graduate School / Degree": "Professional: Water\nresource: Master: ",
+        "Elective": "24 or more",
+        "Total": "9 or less",
+        "Remark": "33"
+    },
+    {
+        "Graduate School / Degree": "Professional: PhD: 24 or more",
+        "Elective": "12 or less",
+        "Total": "36",
+        "Remark": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Combined\nMaster/PhD: 36 or more",
+        "Elective": "18 or less",
+        "Total": "54",
+        "Remark": ""
+    },
+    {
+        "Graduate School / Degree": "Professional: Management of Tech.: Master: ",
+        "Elective": "27 or more",
+        "Total": "18 or less",
+        "Remark": "45"
+    },
+    {
+        "Graduate School / Degree": "Professional: PhD: 21 or more",
+        "Elective": "15 or less",
+        "Total": "36",
+        "Remark": ""
+    }
+]

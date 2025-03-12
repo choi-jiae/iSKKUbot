@@ -1,0 +1,95 @@
+
+
+- Part-time Jobs (Activities beyond current visa status)
+
+
+
+- Foreign students (D-2) must receive permission for activities beyond their current visa status (part-time job)
+
+
+
+- Permission of Part-time Jobs
+
+Requirement
+
+Grade Score : Average grade of C(2.0) or above, of just the previous semester.
+Korean Language Ability
+(Undergraduate 1st,2nd year) TOPIK level 3 or above
+(Undergraduate 3rd year or above / Graduate School) TOPIK level 4 or above
+English Track: TOEFL 530(CBT 197, iBT71), IELTS 5.5, CEFR B2, TEPS 601(NEW TEPS 327)If the language requirement is not met, the working hours are limited up to: undergraduates 10 hours, graduate students 15 hoursRequirement will be waived for students from countries where the mother tongue or official language is English
+
+- Required Documents
+
+Confirmation form for hourly part-time job (by the staff of the International Student Services, including a signature of employer)
+A copy of Passport
+A copy of Alien Registration Card
+Application Form
+Transcript
+Copy of Business License
+Copy of Standard Employment Contract (hourly wage, job duty, and working times included)
+Korean track: TOPIK Score
+English track: English Test score, Proof of  document that all classes are taught in English
+
+- How to Apply
+
+① Fill in the Confirmation form for hourly part-time job(personal information, place of work)
+② Upload the documents on Challenge Square to have it checked
+③ Report to the Immigration OfficeOnline : www.hikorea.go.kr > E-application
+Visit : Immigration Service Office located in residence
+
+- Violation Treatment(Under Article 89 of Law)
+
+1st violation: Disallow part-time employment for one year
+2nd violation: Disallow part-time employment during the study period
+3rd violation: Cancel study qualifications
+
+- Allowed Hours
+
+[
+    {
+        "": "Undergraduate Students",
+        "TOPIK requirement met": "30 hours: No limits",
+        "TOPIK requirement unmet": "10 hours\n\n\u00a0\n\n15 hours\n\n\u00a0\n\n\u00a0\n\n15 hours"
+    },
+    {
+        "TOPIK requirement unmet": "10 hours\n\n\u00a0\n\n15 hours\n\n\u00a0\n\n\u00a0\n\n15 hours",
+        "": "Graduate School Students",
+        "TOPIK requirement met": "35 hours: No limits"
+    },
+    {
+        "TOPIK requirement unmet": "10 hours\n\n\u00a0\n\n15 hours\n\n\u00a0\n\n\u00a0\n\n15 hours",
+        "": "After completion of graduate degree or Ph.D. program while preparing thesis",
+        "TOPIK requirement met": "30 hours: 30 hours"
+    }
+]
+
+- Restrictions on Hourly Part-time Jobs for International Students
+
+Private lessons, high-tech industries or institutions, entertainment bars or salons, adult entertainment, speculation businesses such as casinos or gambling, or any business that is against ethical customs, etc.
+
+- Acceptable Areas (Example)
+
+Students are allowed to work in part-time or temporary positions or as assistants at restaurants, stores or companies that are outside of the school, or at a school store, bookstore, school office, or laboratory.
+
+- Attention
+
+Jobs are limited to those that can be performed as a student by social norms.
+Any Internship not related to acquiring credits is not allowed. 
+If a student does not report to the Immigration Office and any illegal hourly job activity is discovered, they will be subject to get fined.
+
+- Reporting Place of Employment Change
+
+If a student changes their place of employment (employer) within the permitted period, they must report the change within 15 days via online or by visiting the Office of International Student Services.
+
+- Extension of Permission
+
+Limited to 1 year within stay, and 2 workplaces
+Restricted to :
+
+① Students that have an attendance rate lower than 70% or a GPA lower than C(2.0)
+② Students that did not report their working conditions (place of employment, working hours, etc.) fully, or any changes of workplace
+
+- Exception for Permission
+
+If a student works as an intern to acquire credits and receives a certain amount as allowance by participating in a research project, or participates in a student scholarship at school, a separate permit is not required.
+If a student receives compensation and the work performed is temporary normal housework or office assistant tasks, and it is not done as an occupational job, such as in the case with a household assistant

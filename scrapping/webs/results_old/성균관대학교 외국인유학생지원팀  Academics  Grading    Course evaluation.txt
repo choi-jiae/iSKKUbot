@@ -1,0 +1,76 @@
+
+
+- Grade
+
+The purpose of grading is to evaluate students’ class participation and academic achievements. The lecturer assigns students grades.
+
+- Grading Policy
+
+Attendance, exams (midterm, final, and unscheduled), presentations, assignments, behavior in class, etc. will be taken account when grading.
+When grading, the lecturer decides the ratio of each element (attendance and so on); it is not determined by the University’s policies.
+Absence of more than 3 out of 16 weeks will result in the failure of a particular course.
+
+- Regular Examinations
+
+There are two exams each semester: midterm and final
+Regular exams may be replaced with presentations or assignments according to the lecturer’s decision.
+The examination period is decided by the academic calendar, but if necessary, the lecturer can change the period for their course schedule.
+
+- Examination Period on Academic Calender
+
+[
+    {
+        "": "Midterm Exam",
+        "Spring Semester": "April",
+        "Fall Semester": "October"
+    },
+    {
+        "": "Final Exam",
+        "Spring Semester": "June",
+        "Fall Semester": "December"
+    }
+]
+
+- Grade on a curve (Undergraduate)
+
+To ensure objectivity of grading and to curb grade inflation, undergraduate courses are evaluated relatively.
+
+- Grading Scale Ranges and Norm-referenced Evaluation
+
+Based on the number of students, an A Grade (A＋․A) is within 30% and the sum of the A Grades (A＋․A) and B Grades (B＋․B) is within 65%.
+In general major courses, an A Grade is within 40%, and the sum of the A Grades and B Grades is within 75%.
+For courses with 19 or less students, international courses, teaching practice courses, military science courses, experience practice courses, and practice courses, at the Schools of Global Leadership, Global Economics, Global Business Administration, Software, Semiconductor Systems Engineering, Global Biomedical Engineering, and major courses at the School of Medicine and School of Pharmacy, and military entrusted student courses, advanced liberal arts/fundamental courses of differentiated education, and liberal arts courses for the Schools of Global Leadership, Global Economics, Global Business Administration, Software, and Semiconductor Systems Engineering, an A Grade is within 50% and the sum of the A and B Grades is within 90%.
+Graduate students, exchange students, KGSP students, and students with foreign government scholarships are all excluded from the counting of the number of students for grading and relative evaluation. Education Practice and Field Practice courses and courses with students selected by separate standards are subject to absolute evaluation.
+Relative grading is based on the new field classification (core major/ general major), and not based on the old field classification (Basic Major Courses/ Advanced Major Courses). If a course is an advanced major course and core major course, relative grading will be based on the core major course.
+
+- Course Evaluation
+
+To check students’course satisfaction level and to improve the quality of courses, the University is conducting Course Evaluations for every course. Students must participate in the Course Evaluations during the evaluation period. If a student does not participate, there could be limitations on viewing their grades.
+
+- Number of Course Evaluations and Period
+
+Course evaluations are done 2 times in one semester (midterm and final)
+Midterm Course Evaluation is only conducted in undergraduate courses and Final Course Evaluation is conducted both at the undergraduate and graduate level.
+
+- Evaluation Process
+
+Access the SKKU website (http://www.skku.edu) → Click on GLS → Select Study Areas → Click on Course Evaluation (Left Bottom) → Participate in Course Evaluation on the courses the student registered.
+
+- Course Evaluation Period According to Academic Calender
+
+[
+    {
+        "": "Midterm Course Evaluation\n(Undergraduate)",
+        "Spring Semester": "End of April ~ Early May",
+        "Fall Semester": "End of October ~ Early November"
+    },
+    {
+        "": "Finals Course Evaluation\n(Undergraduate/ Graduate)",
+        "Spring Semester": "June",
+        "Fall Semester": "December"
+    }
+]
+
+- Course Evaluation and Grade Posting
+
+Students should do a Course Evaluation for every course he/she has taken during the evaluation period, and only students that participated in the evaluation can view the grades posted by professors/lecturers during the Grade Posting period.

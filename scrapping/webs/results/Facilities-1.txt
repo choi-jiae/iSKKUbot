@@ -1,0 +1,142 @@
+Facilities
+Humanities and Social Sciences Campus
+
+
+[
+    {
+        "Amenity": "Self-Help Center\n\u2024FAX, Scanner, PC\n\u2024Umbrella, Exercise Equipment Rental",
+        "Location": "Student Center 4th floor"
+    },
+    {
+        "Amenity": "Lost and Found Center",
+        "Location": "Student Welfare Committee"
+    },
+    {
+        "Amenity": "Women Rest Area",
+        "Location": "Student Center 4th floor"
+    },
+    {
+        "Amenity": "Women Rest Area",
+        "Location": "Hall of Economics 1st floor"
+    },
+    {
+        "Amenity": "Women Rest Area",
+        "Location": "Law School B2"
+    },
+    {
+        "Amenity": "Post Office",
+        "Location": "600th Anniversary Hall 1st floor"
+    },
+    {
+        "Amenity": "Woori Bank",
+        "Location": "Yurimhoegwan 1st Floor"
+    },
+    {
+        "Amenity": "Ok-ryu-chun Restaurant",
+        "Location": "Faculty Hall 1st Floor"
+    },
+    {
+        "Amenity": "Faculty Restaurant",
+        "Location": "600th Anniversary Hall 6th floor"
+    },
+    {
+        "Amenity": "Student Restaurant",
+        "Location": "600th Anniversary Hall B1"
+    },
+    {
+        "Amenity": "Student Restaurant",
+        "Location": "Business School B2"
+    },
+    {
+        "Amenity": "Student Restaurant",
+        "Location": "Law School B2"
+    },
+    {
+        "Amenity": "Book Store",
+        "Location": "Business School B3"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Photo Studio"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Copy Room"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Optician\u2019s Shop"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Sarangbang"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Barber Shop"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Telecommunication"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Travel Agency"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Stationary Store"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Record Shop"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Flower Shop"
+    },
+    {
+        "Location": "Business School B3",
+        "Amenity": "Souvenir Shop"
+    },
+    {
+        "Amenity": "Shoe Repair Shop",
+        "Location": "Hall of Economics"
+    },
+    {
+        "Amenity": "Gym",
+        "Location": "Business School B4"
+    },
+    {
+        "Amenity": "Convenience Store / Snack Bar",
+        "Location": "Central Library 1st floor"
+    },
+    {
+        "Amenity": "Convenience Store / Snack Bar",
+        "Location": "Susun Hall Annex 5th floor"
+    },
+    {
+        "Amenity": "Convenience Store / Snack Bar",
+        "Location": "Law School B2"
+    },
+    {
+        "Amenity": "Convenience Store / Snack Bar",
+        "Location": "Student Center 3rd Floor"
+    },
+    {
+        "Amenity": "Convenience Store / Snack Bar",
+        "Location": "Business School B3"
+    },
+    {
+        "Amenity": "Convenience Store / Snack Bar",
+        "Location": "Toegye Hall of Humanities 2nd floor"
+    },
+    {
+        "Amenity": "Take-Out Coffee Shop",
+        "Location": "Between Hall of\nEconomics-Humanities"
+    },
+    {
+        "Amenity": "Take-Out Coffee Shop",
+        "Location": "Business School B2"
+    }
+]

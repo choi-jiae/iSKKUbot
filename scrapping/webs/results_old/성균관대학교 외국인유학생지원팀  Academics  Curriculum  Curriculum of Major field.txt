@@ -1,0 +1,15 @@
+
+
+- Requirement
+
+A student that has joined since 2013 needs to achieve the minimum credits in each category in major courses : Core Major Course, General Major Course, and Practical Course.
+A student who joined before 2013 needs to achieve the minimum credits in each category in major courses : Basic Major Course, Advanced Major Course, and Practical Course.
+The minimum requirement may vary depending on the year of joining SKKU.
+
+- Core Major Category
+
+Since 2013, some departments are running the Core Major Category with mandatory courses only and require students to complete it by taking their own major courses only, without other departments’ Cross-Listing Courses. If students take another department’s C/L Course, its credits will be counted in the General Major Category.
+It is not applicable for those who joined before 2013.
+          Since 2013, Architectural Engineering and Civil Engineering have been merged into the School of Civil and Architectural Engineering. If a student joined before 2013, they need to check whether the course is identical with a previous one before doing the course registration. (Inquiry: College of Engineering Administrative Office 031-290-5833)
+          Since 2015, the School of Chemical Engineering and Dept. of Polymer Engineering have been merged into the School of Chemical Engineering. Please refer to the credit requirement table by major and year of admission. (Inquiry : College of Engineering Administrative Office 031-290-5833)
+          Since 2016, the School of Civil and Architectural Engineering and Dept. of Landscape Architecture have been merged into the School of Civil, Architectural Engineering & Landscape Architecture. If a student joined before 2016, they need to check whether the course is identical with a previous one before completing course registration. (Inquiry : College of Engineering Administrative Office 031-290-5833)

@@ -1,0 +1,224 @@
+
+
+- Department Entrance
+
+Undergraduate students who entered SKKU as undeclared must decide on a department in their second year which is called "Department Entrance"
+
+- How to Apply for a Department
+
+Students should rank ALL majors based on his/her own preference within his/her study field such as Humanities, Social Sciences, Natural Sciences and Engineering.
+
+- Application Period for Department Entrance
+
+Students entered in Spring Semester (March): before starting 3rd semester
+Students entered in Fall Semester (September): before starting 3rd semester
+
+- Number of Students Allowed for Each Department
+
+Every semester, the number of overseas Korean and international students allowed for each semester is 50% of the maximum number of students allowed for the semester.
+If the number of applicants for a specific department is greater than 50% of the maximum number of students allowed for the department, the students are selected based on the first year grades and eliminated students are allocated to their second department of choice.
+The number of students allowed in each department and the number of Korean national abroad and international students, which is 50% of the maximum number of students allowed in departments is decided every year. There is not much fluctuation, so students can refer to records from 2015.
+
+- Restrictions on Departmental Admission
+
+International students who were admitted through special admission are required to submit a Korean language certificate before entering their 2nd academic year. If they fail to meet the requirement, students will be restricted when applying for majors.[
+    {
+        "Important Notes": "Requirement: TOPIK : Level 4 or above\n\nCertificate of Sungkyun Language Institute : Level 4 or above"
+    },
+    {
+        "Important Notes": "Submission Deadline: Entering 2nd academic year in March (Spring Semester) : Dec. 30th\n\nEntering the 2nd academic year in September (Fall Semester) : June 30th"
+    }
+]If students satisfy the requirements after the deadline, the restriction will be removed and students will be eligible to apply for departmental admission from the following semester.
+
+- Multiple Major(Plural Major)
+
+
+
+- Qualification and Application Period
+
+Students registered for 3 to 7 semesters. (※ Students on a Leave of Absence cannot apply.)
+Students cannot apply from the 8th semester
+
+- Limits on Number of plural Majors
+
+Maximum 2 majors (Second major and third major)
+
+- Limits on Applying Multiple Major
+
+International students who were admitted through special admission for undergraduate international students are required to submit a certificate of Korean proficiency(TOPIK score) before entering the 2nd semester of their 2nd year (4th academic semester). A student who fails to satisfy the requirements shall be restricted from multiple major applicationExclude students who entered SKKU with English test scores
+
+- Limitations
+
+Departments in which students cannot obtain a multiple major : Global Leadership, Global Economics, Global Business Administration, Semiconductor System Engineering, Software, College of Pharmacy, Medical School, Global Biomedical Engineering (※Since 2017, Software can be obtained as a multiple major by other majors)
+Multiple majoring in departments in the College of Education is only available within the College of Education.
+Students from Semiconductor System Engineering, College of Pharmacy, Medical School cannot obtain a multiple major. (※Since 2017, students from Software can obtain a multiple major)
+If a student who entered the university between 2005~2012 has a multiple major in Business Administration, he/she must meet Basic Major Course requirements. (Same for Business School students who entered the university between 2006~2012 aiming for multiple majors in other departments)
+When there is a specific requirement needed for a multiple major(department related to music, dance, or sports, the Department of Architecture, the Department of IT Convergence, or Self-designed Trans-disciplinary Studies), there may be a pre-screening procedure. Contact the department&rsquo;s administrative office for pre-screening related questions.
+If an international student who entered the university after 2016 has not submitted the TOPIK score of level 4 or above at the time of the end of 3rd semester, may be restricted to obtain a multiple major.
+
+- Plural Major Allocation
+
+If a large number of students are focused on a specific major, the limitations on the number of students allowed are determined by the dean of the department.
+When there is a limitation, the number of students allowed is allocated equally each semester. The remaining seats in the first semester are added to the second semester.
+If the applicant for a size-limited department cannot meet the quota, all applicants are permitted.
+If the applicant for a size-limited department exceeds the quota, applicants are assigned by the allocation ranking.
+
+- Allocation Ranking of the Applicants
+
+Students enrolled for less than 5 semesters and meet the credit criteria below are assigned with higher priority.[
+    {
+        "No. of Semesters Enrolled": "Credit Criteria",
+        "3": "40 credits",
+        "4": "55 credits",
+        "5": "70 credits",
+        "6": "85 credits",
+        "7": "100 credits"
+    }
+]Students with same the GPA are allocated according to the following order of priority:
+
+① Number of grades higher than A
+② Number of grades higher than B
+③ Number of grades higher than C
+④ Number of grades higher than D
+⑤ Students with less F
+⑥ If all the criteria above is the same, both students are allocated.
+
+- Criteria for GPA
+
+Includes the grades from all semesters enrolled at the time of application
+Grades from holdover period are not included
+Grades from the winter/summer semester(s) are included.
+GPA = (Credit of the course * Grade)/Total Credit
+(P/F courses, withdrawal courses, credit withdrawal courses, and retaken courses are excluded)
+
+- Withdrawal of plural Major
+
+If a student currently working towards a plural major wants to cancel it, he/she should apply for cancellation on GLS during the plural Major Application Period and get confirmed at the student&rsquo;s college&rsquo;s administrative office.
+
+- Course Requirements for Business Administration plural Major
+
+Students must meet the course requirements within each course category.(Core major course/ General major course)
+To obtain plural major course credit, students must take between 8 and 11 of the following courses: Marketing Management, Financial Management, Management Information Systems, Organizational Behavior, International Business, Production and Operations Management, Introduction to Financial Accounting, Introduction to Management, Business Ethics, Management Information Processing, and Elementary Business Statistics.
+Students who entered the university between 2005~2012 and are majoring in Business Administration must cover more than 24 credits in Basic Major Courses, and cannot graduate if they are unable to meet the requirements.
+Students who entered the university between 2006~2012 and are majoring in Business Administration are also under this policy.
+Student who entered the university after 2013 are not included.
+
+- Interdisciplinary Major
+
+
+
+- Interdisciplinary Programs
+
+Students willing to take an Interdisciplinary Program as a plural major should apply during the plural major application period using the same procedure as plural majors.
+Students taking an Interdisciplinary program as a plural major must meet credit requirements of Core major course/ General major course. (Basic major course/ Advance major course for students who entered before 2012)
+For students who entered the university before 2007, the minimum credit requirement of interdisciplinary programs is minimized from a total of 42 credits to 36 credits.
+Students who entered the University after 2008 must take more than the minimum credits of each major category (Basic major course/ Advance major course) designated by each department (Minimum total credit is 36)
+Students who entered the University after 2013 must qualify for the credit requirement of the Core major course/ General major course.
+If the courses of the interdisciplinary program are also included in the first or second major, a maximum of 6 credits are accepted by both majors.
+
+- Interdisciplinary Programs
+
+[
+    {
+        "College or School in Charge": "College of Liberal Arts",
+        "Department": "Comparative Culture",
+        "Participating Departments": "Korean/ English/ French/ Chinese/ German/ Russian Language and Literature, Korean Literature in Classical Chinese, History, Philosophy"
+    },
+    {
+        "College or School in Charge": "College of Liberal Arts",
+        "Department": "Japanology",
+        "Participating Departments": "Korean Language and Literature, English Language and Literature, History, College of Confucian Studies and Eastern Philosophy, Law, Political Science and Diplomacy, Business Administration"
+    },
+    {
+        "College or School in Charge": "College of Liberal Arts",
+        "Department": "Global-Cultural Contents",
+        "Participating Departments": "Korean/ English/ French/ Chinese/ German/ Russian Language and Literature, Korean Literature in Classical Chinese, History, Philosophy, Library and Information Science"
+    },
+    {
+        "College or School in Charge": "College of Liberal Arts",
+        "Department": "Data Science",
+        "Participating Departments": "Library and Information Science, Computer Education, Statistics, Consumer and Family Sciences, German Language and Literature"
+    },
+    {
+        "College or School in Charge": "College of Economics",
+        "Department": "International Trade Business",
+        "Participating Departments": "English / French / German /Russian / Chinese Language and Literature, History, Law, Public Administration, Political Science and Diplomacy, Economics, Business Administration"
+    },
+    {
+        "College or School in Charge": "College of Social Sciences",
+        "Department": "Legal Policy Studies",
+        "Participating Departments": "School of Global Leader, Business Administration"
+    },
+    {
+        "College or School in Charge": "College of Biotechnology and Bioengineering",
+        "Department": "Genetic Engineering",
+        "Participating Departments": "Food and Life Science, Bio-Mechatronics Engineering, Genetic Engineering"
+    },
+    {
+        "College or School in Charge": "Office of International Affairs",
+        "Department": "*Korean Studies",
+        "Participating Departments": "College of Confucian Studies and Eastern Philosophy, Korean Language and Literature, History, Political Science and Diplomacy, Journalism and Mass Communications,Sociology, Economics, School of Business, Academy of East Asian Studies"
+    },
+    {
+        "College or School in Charge": "SKKU Institute for Convergence",
+        "Department": "Energy Science",
+        "Participating Departments": "Energy Science, Electronic and Electrical Engineering, Advanced Materials Science & Engineering, Polymer Science & Engineering, Mechanical Engineering"
+    },
+    {
+        "College or School in Charge": "SKKU Institute for Convergence",
+        "Department": "Interdisciplinary Informatics",
+        "Participating Departments": "Software, Global Economics, Global Business Administration, Design, Education, Global Biomedical Engineering"
+    },
+    {
+        "College or School in Charge": "College of Information and Communication Engineering",
+        "Department": "IT Convergence",
+        "Participating Departments": "Computer Engineering, Software"
+    }
+]The Interdisciplinary Program for Korean Studies is available only for International Students
+
+- College or School Office in Charge of Interdisciplinary Programs
+
+[
+    {
+        "Department": "Comparative Culture Japanology Global-Cultural Contents Data Science",
+        "Office": "College of Liberal Arts Administration Office",
+        "Contact": "02-760-0912~4",
+        "Location": "(Humanities and Social Sciences Campus) Toegye Hall of Humanities 3rd floor"
+    },
+    {
+        "Department": "International Trade Business",
+        "Office": "Business School/College of Economics Administration Office",
+        "Contact": "02-760-0944~5",
+        "Location": "(Humanities and Social Sciences Campus)Business School 4th Floor"
+    },
+    {
+        "Department": "Legal Policy Studies",
+        "Office": "College of Global Leader Administrative Office",
+        "Contact": "02-760-0191",
+        "Location": "(Humanities and Social Sciences Campus) Law School 2nd Floor"
+    },
+    {
+        "Department": "Genetic Engineering",
+        "Office": "School of Pharmacy/College of Biotechnology and Bioengineering/College of Sport Science Administration Office",
+        "Contact": "031-290-5871~3",
+        "Location": "(Natural Sciences Campus)Life Science and Technology 2nd floor"
+    },
+    {
+        "Department": "Korean Studies",
+        "Office": "Academy of East Asian Studies",
+        "Contact": "02-760-0775",
+        "Location": "(Humanities and Social Sciences Campus)600th Anniversary Hall 4th Floor"
+    },
+    {
+        "Department": "Energy Science Interdisciplinary Informatics",
+        "Office": "SKKU Institute for Convergence Administration Office",
+        "Contact": "031-299-4272",
+        "Location": "(Natural Sciences Campus)Research Complex 2 1st Floor"
+    },
+    {
+        "Department": "IT Convergence",
+        "Office": "College of Information and Communication Engineering Administration Office",
+        "Contact": "031-290-5811~5",
+        "Location": "(Natural Sciences Campus) Engineering Building 1, 1st Floor"
+    }
+]

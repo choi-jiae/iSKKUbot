@@ -1,0 +1,8 @@
+Dismissal  Readmission  Holdover
+Holdover
+Limit
+
+A student who receives 3 consecutive academic warnings or 4 academic warnings in total
+A holdover student can nullify the academic results of 2 semesters including the very last semester.
+A holdover student needs to submit a ①Student Consent and a ②Written Promise for Improvement to the administrative office.
+A student is dismissed if he/she receives 3 consecutive academic warnings or 4 academic warnings in total despite having two holdovers.

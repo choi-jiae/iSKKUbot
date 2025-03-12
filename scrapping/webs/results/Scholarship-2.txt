@@ -1,0 +1,18 @@
+Scholarship
+SKKU Scholarship
+Merit-based Scholarship for International Undergraduate Students
+
+Student who entered SKKU through International Student Admission Track and acquired 12 or more credits(9 credits for 7th semester) without “F” and obtained average GPA of the previous semester following :[
+    {
+        "Standard": "Top 6% students based on average GPA of previous semester",
+        "Amount": "70% of tuition fee"
+    },
+    {
+        "Standard": "18% ~ 6% students based on average GPA of previous semester",
+        "Amount": "50% of tuition fee"
+    },
+    {
+        "Standard": "30% ~ 18% students based on average GPA of previous semester",
+        "Amount": "30% of tuition fee"
+    }
+]

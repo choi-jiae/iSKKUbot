@@ -1,0 +1,7 @@
+Library
+Borrowing & Returning
+Returning
+
+All borrowed books must be returned within the loan period.
+Students are fined 100 won per day per book when overdue.
+If you have overdue materials, you cannot borrow or reserve other materials.

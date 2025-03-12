@@ -1,0 +1,23 @@
+Insurance
+Health Insurance
+NHI Eligibility Acquisition(Date of joining)
+
+[
+    {
+        "Visa Types": "D-2 Student Visa (Full-time degree/Exchange Program)\n\nD-4-3 Visa (Elementary/Middle/High school students)",
+        "Date of eligibility acquisiton": "\u2219 Date of initial arrival \u2192Date of alien registration"
+    },
+    {
+        "Visa Types": "D-2 Student Visa (Full-time degree/Exchange Program)\n\nD-4-3 Visa (Elementary/Middle/High school students)",
+        "Date of eligibility acquisiton": "\u2219 Reentry\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 Date of reentry"
+    },
+    {
+        "Visa Types": "D-4 Visa (General Trainee, Korean Language Program)",
+        "Date of eligibility acquisiton": "\u2219 6 months after the date of arrival"
+    },
+    {
+        "Visa Types": "F-4, Overseas Korean Visa",
+        "Date of eligibility acquisiton": "\u2219 Date of school entrance after arrival in Korea\n\n\u00a0\u00a0(Enrollment certificate required)"
+    }
+]※ NHI card and Subscription Guide are sent to your residential address in Korea.
+※ Before receiving the Alien Registration Card (ARC), you can use National Health Insurance by issuing ‘Certificate of Foreigner Registration’[외국인등록사실증명] from the Immigration and Foreign Offices

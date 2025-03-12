@@ -1,0 +1,20 @@
+Library
+
+Library Hours
+
+[
+    {
+        "Room": "Reference Room",
+        "Semester": "08:00 ~ 21:40: 10:00 ~ 17:00",
+        "Vacation": "09:00 ~ 17:30: 10:00 ~ 17:00"
+    },
+    {
+        "Room": "Reading Room: Seoul",
+        "Semester": "08:00~22:00(Including Sunday and Holiday)"
+    },
+    {
+        "Room": "Reading Room: Suwon",
+        "Semester": "08:00~22:00(Reading Room A,C)\n\n09:00~21:40(Reading Room F,G)",
+        "Vacation": "08:00~22:00(Reading Room A,C)\n\n09:00~17:30(Reading Room F,G)"
+    }
+]

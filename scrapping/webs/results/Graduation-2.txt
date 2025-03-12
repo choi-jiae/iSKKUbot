@@ -1,0 +1,15 @@
+Graduation
+Undergraduate Graduation Requirements
+Graduation Requirements for International Students
+
+[
+    {
+        "Registration": "Minimum of 8 semesters",
+        "Credits Required for Graduation": "Must meet credit requirements/ qualify graduation test for one\u2019s major",
+        "GPA": "2.00 or greater",
+        "Graduation Dissertation": "Varies according to dept.",
+        "\u201c3 PUM\u201d (3 Qualifications)": "Global Qualification*"
+    }
+]International students are exempt from credit requirement of International Language CoursesStudent who entered in 2014~2015: TOPIK level 4 or above
+Student who entered after 2016: TOPIK level 5 or above
+(Transfer or English track students are exempted)

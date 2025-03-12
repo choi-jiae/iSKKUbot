@@ -1,0 +1,109 @@
+
+
+- SKKU Scholarship
+
+
+
+- Merit-based Scholarship for International Undergraduate Students
+
+Student who entered SKKU through International Student Admission Track and acquired 12 or more credits(9 credits for 7th semester) without “F” and obtained average GPA of the previous semester following :[
+    {
+        "Standard": "Top 6% students based on average GPA of previous semester",
+        "Amount": "70% of tuition fee"
+    },
+    {
+        "Standard": "18% ~ 6% students based on average GPA of previous semester",
+        "Amount": "50% of tuition fee"
+    },
+    {
+        "Standard": "30% ~ 18% students based on average GPA of previous semester",
+        "Amount": "30% of tuition fee"
+    }
+]
+
+- Merit-based Scholarship for International Graduate Students
+
+A student who entered SKKU through International Student Admission Track and acquired 3 or more credits without “F” and obtained the average GPA of the previous semester following :(-Professional/Special Graduate School students are not included. If one gets "F" on prerequisite course, the scholarship is not given)[
+    {
+        "GPA Average": "4.5 or Above",
+        "Amount(Entering SKKU 2022 or before)": "50% of Tuition Fee",
+        "Amount(Entering SKKU 2023 or after)": "50% of Tuition Fee"
+    },
+    {
+        "Amount(Entering SKKU 2022 or before)": "50% of Tuition Fee",
+        "GPA Average": "Between 4.2 and 4.5",
+        "Amount(Entering SKKU 2023 or after)": "30% of Tuition Fee"
+    },
+    {
+        "GPA Average": "Between 3.8 and 4.2",
+        "Amount(Entering SKKU 2022 or before)": "30% of Tuition Fee",
+        "Amount(Entering SKKU 2023 or after)": "20% of Tuition Fee"
+    }
+]
+
+- Scholarship for international graduate students of Natural Science, Engineering, and Medicine (STEM Scholarship)
+
+SKKU has created a scholarship program for newly admitted international graduate students who apply for majors in Science / Technology / Engineering / Mathematics (STEM) (including Pharmacy & Biomedical Science) fields.
+Must be recommended by a professor at SKKU and must meet SKKU scholarship regulations(Up to 100% of the tuition fee can be provided as a scholarship depending on the result of the applicant’s scholarship evaluation conducted by the department/College).
+The student who was recommended by a professor and GPA3.8 above, or the writer of SCI Journal during in SKKU can maintain this Scholarship.
+[expected] Research-enrolled students could apply STEM scholarship from March 2018Students who were chosen for this scholarship when admission cannot change their scholarship to‘SKKU Scholarship(merit-based scholarship for International student).’ Also, STEM scholarship cannot be combined with‘SKKU Scholarship’either.
+
+- General Scholarships (Undergraduate)
+
+[
+    {
+        "Name": "Merit- based",
+        "Conditions": "Average GPA 3.0 or more\n\nAchieve more than 12 credits (9 credits in the 7th semester) without an F\n\nHold a high rank in the department",
+        "Amount": "A : 70% of tuition fee\nB : 50% of tuition fee"
+    },
+    {
+        "Name": "Moon- Haeng",
+        "Conditions": "Achieve more than 12 credits (9 credits in the 7th semester)\n\nneed financial aids\n\nAverage GPA like following :\nA : 2.5 (3.0 for continuity) / B : 2.5 / C : 2.0 or more",
+        "Amount": "A : 100% of tuition fee\nB : 50% of tuition fee\nC : 30% of tuition fee"
+    },
+    {
+        "Name": "Student Contribution",
+        "Conditions": "Achieve more than 12 credits (9 credits in the 7th semester)\n\nReceive credit for his/her service",
+        "Amount": "To be determined"
+    },
+    {
+        "Name": "Excellent Volunteer",
+        "Conditions": "Achieve more than 12 credits (9 credits in the 7th semester)\n\nAverage GPA 2.0 or more\n\nRecommended by the Vice President of Student affairs",
+        "Amount": "To be determined"
+    },
+    {
+        "Name": "Student Union Program",
+        "Conditions": "Achieve more than 12 credits (9 credits in the 7th semester)\n\nAverage GPA 2.0 or more\n\nWinner of the contest for cultural activity programs",
+        "Amount": "To be determined"
+    }
+]
+
+- Korea Government Scholarship
+
+
+
+- GKS Scholarships for Self-sponsored Students
+
+Eligibility : studied in Korea for more than a year (Undergraduate)
+Duration : 10 months
+200 international students benefit every year
+Amount : 500,000 won per month
+Application can be made through each university
+Application period : every January<Requirements>① A self-sponsored student who has been enrolled in 2nd, 3rd or 4th year in a 4-year university
+Not applicable for graduate students, students enrolled in Cyber universities, or students enrolled without credits
+If he/she is a transfer student, he/she needs to study more than a year (2 semesters) in Korea.
+
+should submit transcripts from 2 different universities in Korea
+Hold foreign citizenship and be categorized as an international student in his/her university
+
+Does not hold Korean citizenship, including parents
+Not applicable for those who are already receiving the scholarship in the amount of more than 300,000 won per month as a living expense from the Korean Government, University, or any organization
+
+
+② Average GPA 80 points out of 100 through the entire period of study
+③ Average GPA of last semester is 80 points out of 100
+GPA score needs to be converted on a scale of 100 points (80 points by rounding off is not acceptable)
+
+④ TOPIK level 4 or higher
+
+A successful candidate is selected by considering academic results, TOPIK level, a personal essay, and a recommendation letter.

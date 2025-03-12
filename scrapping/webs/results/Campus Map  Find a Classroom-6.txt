@@ -1,0 +1,16 @@
+Campus Map  Find a Classroom
+Find a Classroom
+Main building numbers of the Natural Sciences Campus
+
+21XXX, 22XXX, 23XXX : Engineering Building 1
+25XXX, 26XXX, 27XXX : Engineering Building 2
+31XXX : Natural Science 1
+32XXX : Natural Science 2
+33XXX : Chemistry
+40XXX : Semiconductor
+51XXX : General Studies
+53XXX : School of Pharmacy
+61XXX, 62XXX : Life Science and Technology
+81XXX : Research Complex 1
+83XXX : Research Complex 2
+71XXX : Medical School

@@ -1,0 +1,72 @@
+Graduate Curriculum
+Credit Requirements for Completion and Graduation
+Special Graduate School
+
+[
+    {
+        "Graduate School / Degree": "Special: Confucial Studies: Master: ",
+        "Elective": "18 or more",
+        "Total": "6 or less",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: Education: Master: Teaching courses offered in Graduate School",
+        "Elective": "20 or more",
+        "Total": "credits of Teaching courses 4 or more",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: Strategic Studies: Master: ",
+        "Elective": "12 or more",
+        "Total": "12 or less",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: Information/Comm.: Master: ",
+        "Elective": "12 or more",
+        "Total": "12 or less",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: Translation/TESOL: Master: ",
+        "Elective": "18 or more",
+        "Total": "6 or less",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: Social Welfare: Master: ",
+        "Elective": "16 or more",
+        "Total": "8 or less",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: Clinical Pharmacy: Master: ",
+        "Elective": "24 or more",
+        "Total": "",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: Clinical Nursing: Master: ",
+        "Elective": "24 or more",
+        "Total": "",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: IMBA: Master: ",
+        "Elective": "36 or more",
+        "Total": "",
+        "Remark": "36"
+    },
+    {
+        "Graduate School / Degree": "Special: Culture Management: Master: ",
+        "Elective": "12 or more",
+        "Total": "12 or less",
+        "Remark": "24"
+    },
+    {
+        "Graduate School / Degree": "Special: Global Entrepreneurship: Master: ",
+        "Elective": "24 or more",
+        "Total": "",
+        "Remark": "24"
+    }
+]

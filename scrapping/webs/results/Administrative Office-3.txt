@@ -1,0 +1,10 @@
+Administrative Office
+University College Administration Office
+Contact & Location
+
+[
+    {
+        "Humanities and Social Sciences Campus": "\u260f 02) 760-0991~3\nLocation: Hoam Hall 2F",
+        "Natural Sciences Campus": "\u260f 031) 299-4223~4\nLocation: General Studies Bld. 2F"
+    }
+]

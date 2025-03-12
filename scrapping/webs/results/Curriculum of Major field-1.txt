@@ -1,0 +1,7 @@
+Curriculum of Major field
+Requirement
+
+
+A student that has joined since 2013 needs to achieve the minimum credits in each category in major courses : Core Major Course, General Major Course, and Practical Course.
+A student who joined before 2013 needs to achieve the minimum credits in each category in major courses : Basic Major Course, Advanced Major Course, and Practical Course.
+The minimum requirement may vary depending on the year of joining SKKU.

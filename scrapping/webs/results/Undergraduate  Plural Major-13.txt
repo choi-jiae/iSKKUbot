@@ -1,0 +1,9 @@
+Undergraduate  Plural Major
+Multiple Major(Plural Major)
+Criteria for GPA
+
+Includes the grades from all semesters enrolled at the time of application
+Grades from holdover period are not included
+Grades from the winter/summer semester(s) are included.
+GPA = (Credit of the course * Grade)/Total Credit
+(P/F courses, withdrawal courses, credit withdrawal courses, and retaken courses are excluded)

@@ -1,0 +1,102 @@
+Curriculum of Liberal ArtsFundamental field
+
+Credit requirement of Sungkyun Humanity/Liberal Arts/Fundamental Courses for students joined from 2016 to 2019
+
+[
+    {
+        "Department": "Humanities, Global Leader,Social Sciences, Global Economics,Business Administration, Global Business Administration,Education, Education in Classical chinese, Art",
+        "Affiliated College": "Confucian Studies and Eastern Philosophy, Liberal Arts, Social Sciences, Economics, Business, Education, Art",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Balance Liberal Arts": "9",
+        "Fundamental Courses": "9",
+        "Total": "38"
+    },
+    {
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Balance Liberal Arts": "9",
+        "Department": "Natural Sciences",
+        "Affiliated College": "Natural Sciences",
+        "Fundamental Courses": "24",
+        "Total": "53"
+    },
+    {
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Balance Liberal Arts": "9",
+        "Department": "Natural Sciences",
+        "Fundamental Courses": "24",
+        "Affiliated College": "Bioengineering",
+        "Total": "53"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Department": "Electronic and Electrical Engineering",
+        "Affiliated College": "Information and Communication Engineering",
+        "Sungkyun Humanity + Core Liberal Arts": "16",
+        "Fundamental Courses": "30",
+        "Total": "55"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Affiliated College": "Information and Communication Engineering",
+        "Sungkyun Humanity + Core Liberal Arts": "16",
+        "Department": "Semiconductor Systems Engineering",
+        "Fundamental Courses": "24",
+        "Total": "49"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "16",
+        "Department": "Software",
+        "Affiliated College": "Software",
+        "Fundamental Courses": "24",
+        "Total": "49"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "16",
+        "Department": "Engineering, Global Biomedical Engineering",
+        "Affiliated College": "Engineering, Institute for Convergence",
+        "Fundamental Courses": "30",
+        "Total": "55"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Department": "Mathematics Education,Computer Education",
+        "Affiliated College": "Education",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Fundamental Courses": "15",
+        "Total": "44"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Department": "Architecture",
+        "Affiliated College": "Engineering",
+        "Fundamental Courses": "18",
+        "Total": "47"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Department": "Sports Science",
+        "Affiliated College": "Sports Science",
+        "Fundamental Courses": "9",
+        "Total": "38"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Department": "Medicine",
+        "Affiliated College": "Medicine",
+        "Fundamental Courses": "18",
+        "Total": "47"
+    },
+    {
+        "Balance Liberal Arts": "9",
+        "Sungkyun Humanity + Core Liberal Arts": "20",
+        "Department": "-",
+        "Affiliated College": "Global Integration College",
+        "Fundamental Courses": "9",
+        "Total": "38"
+    }
+]※ Students of College of Software joined in 2016- For students of College of Software should take Fundamental Software courses(4 credits) and Basic Natural Sciences category courses(21 credits) among 50 credits in total

@@ -1,0 +1,16 @@
+Grading  Course evaluation
+Grade on a curve (Undergraduate)
+Course Evaluation Period According to Academic Calender
+
+[
+    {
+        "": "Midterm Course Evaluation\n(Undergraduate)",
+        "Spring Semester": "End of April ~ Early May",
+        "Fall Semester": "End of October ~ Early November"
+    },
+    {
+        "": "Finals Course Evaluation\n(Undergraduate/ Graduate)",
+        "Spring Semester": "June",
+        "Fall Semester": "December"
+    }
+]

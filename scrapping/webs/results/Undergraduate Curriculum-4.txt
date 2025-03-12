@@ -1,0 +1,26 @@
+Undergraduate Curriculum
+Overview
+Credit System of Sungkyun Liberal Arts(Core,Balnced) Courses
+
+[
+    {
+        "Category": "Core Liberal arts",
+        "Course Completion Method": "Complete required number of credits in Core Liberal arts + DS education category.",
+        "Details": "Differences may exist depending on year in which the student joined SKKU/department, so please check each department\u2019s specific regulation."
+    },
+    {
+        "Course Completion Method": "Complete required number of credits in Core Liberal arts + DS education category.",
+        "Details": "Differences may exist depending on year in which the student joined SKKU/department, so please check each department\u2019s specific regulation.",
+        "Category": "DS Education"
+    },
+    {
+        "Details": "Differences may exist depending on year in which the student joined SKKU/department, so please check each department\u2019s specific regulation.",
+        "Category": "Balance: Human/Culture\n\nSociety/History\n\nNature/Science/ Technology",
+        "Course Completion Method": "Complete required number of credits in Balance Liberal Arts category."
+    },
+    {
+        "Details": "Differences may exist depending on year in which the student joined SKKU/department, so please check each department\u2019s specific regulation.",
+        "Category": "Balance: Basic Humanities and Social Sciences/\n\nNatural Sciences Based",
+        "Course Completion Method": "Complete designated credits for each category."
+    }
+]

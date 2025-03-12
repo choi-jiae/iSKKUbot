@@ -1,0 +1,10 @@
+Others
+Gender Equality Counseling Center
+Location and Phone Number
+
+[
+    {
+        "Humanities and Social Sciences Campus": "Tel : 02) 760-1299\nLocation : Dasan Hall of Economics 1st floor 32105",
+        "Natural Sciences Campus": "Tel : 031) 290-5682\nLocation : Shops & Services Center 3rd floor 04209"
+    }
+]

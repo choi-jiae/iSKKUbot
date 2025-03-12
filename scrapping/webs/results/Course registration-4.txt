@@ -1,0 +1,5 @@
+Course registration
+Course Registration
+Procedure of a Course Registration
+
+1. "Courses" on GLS: Check Notice on "Courses" Menu2. Electrical Timetable: years/semester/Campus,Major,Subjects3. Choose the lessons you want to take: Refer the time, classrroom, brief introduction of the lesson, and syllabus4. Take the courses on courses bag: Available total Credits + 3 credits, Week timetable5. Move on and Login Sugang website(http://sugang.skku.edu)6. Load Courses bag: load the courses you bought from "Electrical Timetable"7. Register the courses: Click "Registration" button to register courses

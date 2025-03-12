@@ -1,0 +1,16 @@
+Library
+Borrowing & Returning
+Borrowing
+
+Students can borrow books at the borrowing desk with a student ID card or use the Self Borrowing & Returning Kiosk.[
+    {
+        "Status": "Undergraduate",
+        "Number of books": "10",
+        "Loan Period": "15days"
+    },
+    {
+        "Status": "Graduate",
+        "Number of books": "20",
+        "Loan Period": "30days"
+    }
+]

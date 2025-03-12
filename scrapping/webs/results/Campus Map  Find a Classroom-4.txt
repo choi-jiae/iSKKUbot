@@ -1,0 +1,7 @@
+Campus Map  Find a Classroom
+Find a Classroom
+How to find classrooms by classroom number
+
+Example) 90212
+90 : number of the building / 2 : 2nd floor / 12 : room number
+90212 > International Hall, 2nd floor, classroom 212

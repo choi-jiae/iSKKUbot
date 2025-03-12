@@ -1,0 +1,25 @@
+//<![CDATA[
+  var resPath = '/_custom/shb/resource/', isEditorImageUpload = 'true' == 'false'? false: true, clientId = 'shb', boardTy = 'common', boardNo = '1118', siteId = 'oiss';
+//]]>Retaking a course
+              
+OISS
+Hit4377
+2016-03-14
+
+
+I got an even lower grade than the original.  Can I make a choice between the original grade and the grade from retaking the course?
+
+No, you cannot.  Personal selection of grades can undermine the stability and equality of the grading system.  The grade from retaking a course becomes your final grade.
+
+
+
+Previous
+A partial tuition fee refund for the withdrawn course.
+
+Next
+Grade withdrawal
+
+
+
+
+List

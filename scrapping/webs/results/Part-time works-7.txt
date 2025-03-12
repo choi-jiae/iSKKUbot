@@ -1,0 +1,21 @@
+Part-time works
+Part-time Jobs (Activities beyond current visa status)
+Allowed Hours
+
+[
+    {
+        "": "Undergraduate Students",
+        "TOPIK requirement met": "30 hours: No limits",
+        "TOPIK requirement unmet": "10 hours\n\n\u00a0\n\n15 hours\n\n\u00a0\n\n\u00a0\n\n15 hours"
+    },
+    {
+        "TOPIK requirement unmet": "10 hours\n\n\u00a0\n\n15 hours\n\n\u00a0\n\n\u00a0\n\n15 hours",
+        "": "Graduate School Students",
+        "TOPIK requirement met": "35 hours: No limits"
+    },
+    {
+        "TOPIK requirement unmet": "10 hours\n\n\u00a0\n\n15 hours\n\n\u00a0\n\n\u00a0\n\n15 hours",
+        "": "After completion of graduate degree or Ph.D. program while preparing thesis",
+        "TOPIK requirement met": "30 hours: 30 hours"
+    }
+]

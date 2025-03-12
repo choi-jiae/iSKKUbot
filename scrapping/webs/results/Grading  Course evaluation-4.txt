@@ -1,0 +1,16 @@
+Grading  Course evaluation
+Grade
+Examination Period on Academic Calender
+
+[
+    {
+        "": "Midterm Exam",
+        "Spring Semester": "April",
+        "Fall Semester": "October"
+    },
+    {
+        "": "Final Exam",
+        "Spring Semester": "June",
+        "Fall Semester": "December"
+    }
+]

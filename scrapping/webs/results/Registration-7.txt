@@ -1,0 +1,66 @@
+Registration
+Extra Semester Registration
+Tuition Fee Amount to Be Paid
+
+[
+    {
+        "Degree": "Undergraduate",
+        "Eligible student": "Enrolled 9 semesters or more\nDept. of Architecture(11 or more)",
+        "Registered Credits": "3 or less",
+        "Invoiced Amount": "1/6 of tuition fee"
+    },
+    {
+        "Degree": "Undergraduate",
+        "Eligible student": "Enrolled 9 semesters or more\nDept. of Architecture(11 or more)",
+        "Registered Credits": "4~6",
+        "Invoiced Amount": "1/3 of tuition fee"
+    },
+    {
+        "Degree": "Undergraduate",
+        "Eligible student": "Enrolled 9 semesters or more\nDept. of Architecture(11 or more)",
+        "Registered Credits": "7~9",
+        "Invoiced Amount": "1/2 of tuition fee"
+    },
+    {
+        "Degree": "Undergraduate",
+        "Eligible student": "Enrolled 9 semesters or more\nDept. of Architecture(11 or more)",
+        "Registered Credits": "10 or more",
+        "Invoiced Amount": "full tuition fee"
+    },
+    {
+        "Degree": "General Graduate School",
+        "Eligible student": "Enrolled 5 semesters or more\nCombined Master/Ph.D.(9 or more)",
+        "Registered Credits": "3 or less",
+        "Invoiced Amount": "1/2 of tuition fee"
+    },
+    {
+        "Degree": "General Graduate School",
+        "Eligible student": "Enrolled 5 semesters or more\nCombined Master/Ph.D.(9 or more)",
+        "Registered Credits": "4 or more",
+        "Invoiced Amount": "Full tuition fee"
+    },
+    {
+        "Degree": "Professional Graduate School",
+        "Eligible student": "Enrolled 5 semesters or more\nCombined Master/Ph.D.(9 or more)\nCombined Master/Ph.D. at the College of Medicine(15 or more)",
+        "Registered Credits": "3 or less",
+        "Invoiced Amount": "1/2 of tuition fee"
+    },
+    {
+        "Degree": "Professional Graduate School",
+        "Eligible student": "Enrolled 5 semesters or more\nCombined Master/Ph.D.(9 or more)\nCombined Master/Ph.D. at the College of Medicine(15 or more)",
+        "Registered Credits": "4 or more",
+        "Invoiced Amount": "Full tuition fee"
+    },
+    {
+        "Degree": "Special Graduate School",
+        "Eligible student": "Enrolled 6 semesters or more",
+        "Registered Credits": "3 or less",
+        "Invoiced Amount": "1/2 of tuition fee"
+    },
+    {
+        "Degree": "Special Graduate School",
+        "Eligible student": "Enrolled 6 semesters or more",
+        "Registered Credits": "4 or more",
+        "Invoiced Amount": "Full tuition fee"
+    }
+]

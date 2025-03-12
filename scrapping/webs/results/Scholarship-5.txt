@@ -1,0 +1,31 @@
+Scholarship
+SKKU Scholarship
+General Scholarships (Undergraduate)
+
+[
+    {
+        "Name": "Merit- based",
+        "Conditions": "Average GPA 3.0 or more\n\nAchieve more than 12 credits (9 credits in the 7th semester) without an F\n\nHold a high rank in the department",
+        "Amount": "A : 70% of tuition fee\nB : 50% of tuition fee"
+    },
+    {
+        "Name": "Moon- Haeng",
+        "Conditions": "Achieve more than 12 credits (9 credits in the 7th semester)\n\nneed financial aids\n\nAverage GPA like following :\nA : 2.5 (3.0 for continuity) / B : 2.5 / C : 2.0 or more",
+        "Amount": "A : 100% of tuition fee\nB : 50% of tuition fee\nC : 30% of tuition fee"
+    },
+    {
+        "Name": "Student Contribution",
+        "Conditions": "Achieve more than 12 credits (9 credits in the 7th semester)\n\nReceive credit for his/her service",
+        "Amount": "To be determined"
+    },
+    {
+        "Name": "Excellent Volunteer",
+        "Conditions": "Achieve more than 12 credits (9 credits in the 7th semester)\n\nAverage GPA 2.0 or more\n\nRecommended by the Vice President of Student affairs",
+        "Amount": "To be determined"
+    },
+    {
+        "Name": "Student Union Program",
+        "Conditions": "Achieve more than 12 credits (9 credits in the 7th semester)\n\nAverage GPA 2.0 or more\n\nWinner of the contest for cultural activity programs",
+        "Amount": "To be determined"
+    }
+]

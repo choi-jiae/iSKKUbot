@@ -1,0 +1,36 @@
+Registration
+
+Tuition Fee Installment
+
+Application for two or four tuitino fee installments available on the GLS system[
+    {
+        "": "Amount of Each Installment",
+        "2 Installments": "50% of tuition fee",
+        "4 Installments": "1st : 1/3 of tuition fee\n\n2nd ~ 4th: 1/3 of remaining amount"
+    },
+    {
+        "": "Application Period",
+        "2 Installments": "4th week of Feb. (Aug.)",
+        "4 Installments": "4th \u00a0week of Feb. (Aug.)"
+    },
+    {
+        "": "Payment\nSchedule: 1st",
+        "2 Installments": "1st week of Mar. (Sep.)",
+        "4 Installments": "1st\u00a0week of Mar. (Sep.)"
+    },
+    {
+        "": "Payment\nSchedule: 2nd",
+        "2 Installments": "4th week of Apr. (Oct.)",
+        "4 Installments": "1st\u00a0 week of Apr. (Oct.)"
+    },
+    {
+        "": "Payment\nSchedule: 3rd",
+        "2 Installments": "-",
+        "4 Installments": "4th \u00a0week of Apr. (Oct.)"
+    },
+    {
+        "": "Payment\nSchedule: 4th",
+        "2 Installments": "-",
+        "4 Installments": "3rd week of May (Nov.)"
+    }
+]A student shall be subject to involuntary disenrollment due to overdue tuition fee payment if he/she does not make a payment for each installment fee in a timely manner; in this case, the paid tuition fee is not refundable. If a student wants to request a leave of absence while they are paying tuition fee installments, he/she needs to pay all of the remaining installments.

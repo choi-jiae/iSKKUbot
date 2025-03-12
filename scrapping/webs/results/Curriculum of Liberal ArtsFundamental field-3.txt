@@ -1,0 +1,25 @@
+Curriculum of Liberal ArtsFundamental field
+
+International Student Exclusive Courses
+
+[
+    {
+        "Category": "Sungkyun Humanity/ Core Liberal Arts",
+        "International Student Exclusive Course(credit)": "Understanding of Coummuniation1(2)\nUnderstanding of Coummuniation2(2)\nUnderstanding of Creative Thinking (2)\nReading in Korean Media(2)\nDocument Writing in Korean(2)\nSpeech and Language Etiquette(2)\nUnderstanding of Coummuniation3(2)\nUnderstanding of Coummuniation4(2)\nAcademic Presentation & Discusion1(2)\nAcademic Presentation & Discusion2(2)\nThinking and Expression2(2): 22",
+        "Remark": "International students can take either exclusive courses or general courses"
+    },
+    {
+        "Remark": "International students can take either exclusive courses or general courses",
+        "Category": "Balance Liberal Arts",
+        "International Student Exclusive Course(credit)": "Understanding of Human(2)\nUnderstanding of Culture(2)\nUnderstanding of Social HIstrory(2)\nUnderstanding of Korean Culture(2)\nUnderstanding of Korean HIstory(2)\nKorean Society and Media(2)\nKorean Culture and Language(2) \nGuidance of Living and Career Development in Korea 1(1): 15"
+    },
+    {
+        "Category": "Elective",
+        "International Student Exclusive Course(credit)": "FYE Seminar1(1): 1",
+        "Remark": ""
+    },
+    {
+        "Category": "Total",
+        "International Student Exclusive Course(credit)": "29 credits or more"
+    }
+]

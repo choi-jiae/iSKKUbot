@@ -1,0 +1,10 @@
+Certificate Issuance
+
+Certificate available
+
+[
+    {
+        "Undergraduate": "Transcript\nCertificate of Enrollment\nCertificate of Attendance\nTemporary Absence Certification\nCertificate of(Expected) Course Completion\nCertificate of(Expected) Graduation",
+        "Graduate": "Transcript\nCertificate of Attendance\nResearch Registration Certificate\nCertificate of Enrollment\nTemporary Absence Certification\nCertificate of(Expected) Course Completion\nCertificate of(Expected) Graduation"
+    }
+]

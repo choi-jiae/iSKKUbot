@@ -1,0 +1,70 @@
+
+
+- Library Hours
+
+[
+    {
+        "Room": "Reference Room",
+        "Semester": "08:00 ~ 21:40: 10:00 ~ 17:00",
+        "Vacation": "09:00 ~ 17:30: 10:00 ~ 17:00"
+    },
+    {
+        "Room": "Reading Room: Seoul",
+        "Semester": "08:00~22:00(Including Sunday and Holiday)"
+    },
+    {
+        "Room": "Reading Room: Suwon",
+        "Semester": "08:00~22:00(Reading Room A,C)\n\n09:00~21:40(Reading Room F,G)",
+        "Vacation": "08:00~22:00(Reading Room A,C)\n\n09:00~17:30(Reading Room F,G)"
+    }
+]
+
+- Library Hours
+
+Student ID card (or mobile student ID card) is required
+Attach student ID card at the gate and pass after green light is turned on
+Students must reserve an empty seat using the kiosk beforehand.
+
+- How to Connect to the Library Website
+
+Click ‘Library’ at the bottom of SKKU’s website (http://www.skku.edu)
+Website URL :
+
+SKKU Library : http://lib.skku.edu
+Jon’gyeong’gak : http://east.skku.edu
+Medical Library : http://lib.skkumed.ac.kr
+
+- Borrowing & Returning
+
+
+
+- Borrowing
+
+Students can borrow books at the borrowing desk with a student ID card or use the Self Borrowing & Returning Kiosk.[
+    {
+        "Status": "Undergraduate",
+        "Number of books": "10",
+        "Loan Period": "15days"
+    },
+    {
+        "Status": "Graduate",
+        "Number of books": "20",
+        "Loan Period": "30days"
+    }
+]
+
+- Renewals
+
+All materials are renewable only once, providing another patron has not requested the materials.
+Renewals can be done through the website.
+‘My Library-Borrowing and Renewal’
+
+- Returning
+
+All borrowed books must be returned within the loan period.
+Students are fined 100 won per day per book when overdue.
+If you have overdue materials, you cannot borrow or reserve other materials.
+
+- Lost Books or Materials
+
+If a students loses any books or materials they will be charged to replace them, including a shipping fee.

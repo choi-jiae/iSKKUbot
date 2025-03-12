@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streaming Response Display</title>
+</head>
+<body>
+    <h1>Real-time Response Display</h1>
+    <div>
+        <input type="text" id="user-input" placeholder="Enter your question here">
+        <button onclick="fetchAndDisplayStream()">Send</button>
+    </div>
+    <div id="response-container"></div>
+
+    <script>
+        async function fetchAndDisplayStream() {
+            const insert_your_url = "your url";
+            const url = `https://{insert_your_url}/chat`;
+            const userInput = document.getElementById("user-input").value;
+            const payload = {
+                chat: userInput
+            };
+
+            try {
+                // Request 옵션
+                const response = await fetch(url, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(payload)
+                });
+
+                // 스트림이 정상인지 확인
+                if (!response.ok) {
+                    throw new Error("Network response was not ok");
+                }
+
+                // response.body가 스트림일 때 처리
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                const responseContainer = document.getElementById("response-container");
+                responseContainer.innerHTML = ""; // 새로운 요청 시 이전 내용 지우기
+
+                // 데이터 스트림 처리
+                while (true) {
+                    const { done, value } = await reader.read();
+                    if (done) break; // 스트림이 끝나면 반복 종료
+
+                    // 스트림 데이터를 텍스트로 디코딩하고, div에 추가
+                    const text = decoder.decode(value, { stream: true });
+                    responseContainer.innerHTML += text.replace(/\n/g, "<br>"); // "\n"을 "<br>"로 변경하여 줄바꿈 반영
+                }
+            } catch (error) {
+                console.error("Fetch error: ", error);
+                const responseContainer = document.getElementById("response-container");
+                responseContainer.innerHTML = "An error occurred while fetching the response.";
+            }
+        }
+    </script>
+</body>
+</html>

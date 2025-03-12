@@ -1,0 +1,22 @@
+Curriculum of Liberal ArtsFundamental field
+
+Credit system of Sungkyun Humanity/Liberal Arts/Fundamental Courses for International Students
+
+A specially designed Sungkyun Humanity/Liberal Arts/Fundamental course curriculum is provided for international students to improve their learning abilities.(International students are exempt from fulfilling credits of each category in Sungkyun Humanity/ Liberal Arts/Fundamental)Credit system of Sungkyun Humanity/Liberal Arts/Fundamental categories for students who entered SKKU via international student admission[
+    {
+        "Category": "Sungkyun Humanity",
+        "Completion": "Complete total number of credits in Sungkyun Humanity+Core Liberal arts category"
+    },
+    {
+        "Completion": "Complete total number of credits in Sungkyun Humanity+Core Liberal arts category",
+        "Category": "Liberal Arts: Core"
+    },
+    {
+        "Category": "Liberal Arts: Balance",
+        "Completion": "Complete total number of credits in Balance Liberal arts category."
+    },
+    {
+        "Category": "Basic",
+        "Completion": "Complete designated credits for each major"
+    }
+]

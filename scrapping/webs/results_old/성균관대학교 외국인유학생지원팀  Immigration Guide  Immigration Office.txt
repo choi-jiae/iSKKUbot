@@ -1,0 +1,38 @@
+
+
+- Korea Immigration Service Offices
+
+
+
+- Contact : Call 1345
+
+From Overseas : +82-2-6908-1345~6
+
+- Website : http://www.hikorea.go.kr
+
+Form Download:  'QUICK' Menu bar at the right side of hikorea website - Application Forms
+
+- Office Information
+
+[
+    {
+        "Region": "Seoul",
+        "Location": "Seoul Immigration Office Sejongno Branch\n\n\nJurisdiction : Seoul (Jongno-gu, Jung-gu, Eunpyeong-gu, Dongdaemun-gu, Jungnang-gu, Dobong-gu, Seongbuk-gu, (Gangbuk-gu, Nowon-gu)\n\nLocation : 2,3F Seoul Global Center, 38 Jongro Jongno-gu, Seoul\n\nSubway : Exit 6, Jonggak Station, Line 1"
+    },
+    {
+        "Region": "Seoul",
+        "Location": "Seoul Immigration Office\n\n\nJurisdiction : Seoul (Gwanak-gu, Gwangjin-gu, Gangnam-gu, Gangdong-gu, Dongjak-gu, Songpa-gu, Seongdong-gu, Seocho-gu, Yongsan-gu) Gyeonggi-do (Seongnam-si, Anyang-si, Hanam-si, Gwacheon-si)\n\nLocation : 319-2, Sinjeong 6 dong, Yangcheon-gu, Seoul\n\nSubway : Line5 Omokgyo Station Exit 7 OR Mok-dong Station Exit 5,6"
+    },
+    {
+        "Region": "Seoul",
+        "Location": "Seoul South Immigration Office\n\n\nJurisdiction : Seoul (Seodaemun-gu, Mapo-gu, Gangseo-gu, Yangcheon-gu, Yeongdeungpo-gu, Guro-gu, Geumcheon-gu) Gyeonggi-do(Gwangmyeong-si)\n\nLocation : 319-2, Sinjeong 6 dong, Yangcheon-gu, Seoul\n\nSubway : Line5 Omokgyo Station Exit 7 OR Mok-dong Station Exit 5,6"
+    },
+    {
+        "Region": "Suwon",
+        "Location": "Suwon Immigration Office\n\n\nJurisdiction : Gyeonggi-do(Gunpo-si, Uiwang-si, Suwon-si, Yongin-si, Icheon-si, Hwaseong-si, Gwangju-si,(Yangpyeong-gun, Yeoju-gun)\n\nLocation : 1012-6, Yeong-tong dong, Yeong-tong gu, Suwon\n\nSubway : Exit 1, Yeongtong Station, Line 1"
+    },
+    {
+        "Region": "Suwon",
+        "Location": "Suwon Immigration Office Pyeongtaek Branch\n\n\nJurisdiction : Gyeonggi-do(Osan-si, Anseong-si, Pyeongtaek-si)\n\nLocation : CK Tower 3rd, 4th floor, 1375, Gyeonggi-daero, Pyeongtaek-si, Gyeonggi-do\n\nSubway : Exit 3, Songtan Station, Line 1 \u2192 Bus 1-1 or 5 or 99"
+    }
+]

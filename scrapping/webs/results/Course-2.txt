@@ -1,0 +1,8 @@
+Course
+Courses
+Types of Courses
+
+Online Course: Courses are conducted 100% through the internet.
+Blended Course (Blended-Learning): Offline and Online lectures are integrated.
+Recorded Course: Repeating studies on the icampus is possible by recording lectures.
+Remote Video Course: Courses are conducted by remote videos in both the Humanities and Social Sciences and Natural Sciences campuses simultaneously.

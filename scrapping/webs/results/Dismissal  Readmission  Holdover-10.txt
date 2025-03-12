@@ -1,0 +1,5 @@
+Dismissal  Readmission  Holdover
+Readmission
+Limit
+
+If a student who has been readmitted after dismissal due to the unsatisfactory academic performance or disciplinary actions is dismissed due to the same reason, he/she is subject to permanent dismissal.
